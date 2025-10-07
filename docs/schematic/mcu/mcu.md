@@ -1,3 +1,31 @@
+# Possible Choices
+
+## STM32H72
+
+- PRO: 
+	- better ecosystem
+	- Non-BGA
+	- Easier development
+	- DSP capabiltiy
+	- SRAM/SDRAM/PSRAM (max frequency: 150 MHz)
+- CON: 
+	- more expensive
+	- No RGMII
+	- External RAM required
+
+## Allwinner
+
+- PRO:
+	- Non-BGA
+	- Cheaper
+	- RGMII
+- CON:
+	- parallel inputs channel?
+	- Support?
+
+It seems in general that Allwinner is not used that often in devices.
+
+
 # CPU requirements
 The most important requirements for the CPU are
 - There must be an ethernet interface (preferably RGMII, RMII also allowed)
@@ -8,6 +36,7 @@ The most important requirements for the CPU are
 - The package MUST NOT be a BGA, these are way too hard to debug.
 - 1 MCO output to drive the ADC
 
+
 ## ADC connections
 - 30 MHz MCO output
 - CMOS / Parallel LVDS style serializer
@@ -17,6 +46,7 @@ The most important requirements for the CPU are
 
 ### Internal ADC
 - Single / dual channel ADC
+- 
 
 ### Alternative
 - Downsampling / decimation of ADC data before in small DSP CPU
@@ -25,10 +55,12 @@ The most important requirements for the CPU are
 - ULPI interface
 
 ## SDRAM
+### Data transfer requirements
 - Data transfer:
 	- 30 MHz x 2 bytes -> 57.3 Mbytes / second
 	- Should be able to save at least a second of data
 
+### Peripheral (stm32h72)
 FMC (Flexible memory controller), can handle
 - SRAM
 - NOR flash / OneNAND flash
@@ -44,7 +76,7 @@ Maximum speed is
 - The FMC_CLK / FMC_SDCLK frequency divided by 2
 
 Check the devboard for comparison.
-
+- SDRAM conflicts with 
 
 ## Ethernet
 - RGMII interface

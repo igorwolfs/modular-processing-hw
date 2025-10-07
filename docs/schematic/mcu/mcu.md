@@ -12,6 +12,8 @@ The most important requirements for the CPU are
 - 30 MHz MCO output
 - CMOS / Parallel LVDS style serializer
 	- DCMII: CMOS 8-14 bit parallel interface, with data-rates up to 140 Mbyte/s at a 80 MHz clock
+	- PSSI: synchronou 8/16-bit data in/out slave
+		- contains 8-word fifo
 
 ### Internal ADC
 - Single / dual channel ADC
@@ -26,6 +28,23 @@ The most important requirements for the CPU are
 - Data transfer:
 	- 30 MHz x 2 bytes -> 57.3 Mbytes / second
 	- Should be able to save at least a second of data
+
+FMC (Flexible memory controller), can handle
+- SRAM
+- NOR flash / OneNAND flash
+- PSRAM
+- NAND
+- DRAM (SDRAM Mobile LPSDR SDRAM)
+
+It has a 
+- Write fifo
+- Read fifo
+
+Maximum speed is
+- The FMC_CLK / FMC_SDCLK frequency divided by 2
+
+Check the devboard for comparison.
+
 
 ## Ethernet
 - RGMII interface

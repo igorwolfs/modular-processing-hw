@@ -3890,6 +3890,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C730146"
+			(at 260.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "STM32H723ZGT6"
+			(at 260.35 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "60c0ea4e-5049-45f7-b3c1-c33124b3f14d")
 		)

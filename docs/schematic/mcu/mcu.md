@@ -36,14 +36,7 @@ The most important requirements for the CPU are
 - The package MUST NOT be a BGA, these are way too hard to debug.
 - 1 MCO output to drive the ADC
 
-
-## ADC connections
-- 30 MHz MCO output
-- CMOS / Parallel LVDS style serializer
-	- DCMII: CMOS 8-14 bit parallel interface, with data-rates up to 140 Mbyte/s at a 80 MHz clock
-	- PSSI: synchronou 8/16-bit data in/out slave
-		- contains 8-word fifo
-
+## ADC
 ### Internal ADC
 - Single / dual channel ADC
 - 
@@ -68,18 +61,93 @@ FMC (Flexible memory controller), can handle
 - NAND
 - DRAM (SDRAM Mobile LPSDR SDRAM)
 
-It has a 
-- Write fifo
-- Read fifo
 
-Maximum speed is
-- The FMC_CLK / FMC_SDCLK frequency divided by 2
+#### Busses
+- Address bus
+	- Single address bus for all peripherals
+- Different chip select for all peripherals
+- Data bus
+	- 8, 16 or 32-bits wide
 
-Check the devboard for comparison.
-- SDRAM conflicts with 
+#### Specs (SDRAM)
+- SDRAM: Maximum speed for synchronous access is:
+	- The FMC_CLK / FMC_SDCLK frequency divided by 2
+- Address bit 13 max
+- 2 NSS bits
+- Write / Read fifos (16x32 bits)
+
+Check the devboard for comparison
+- SDRAM conflicts with
+
+#### Banks
+Bank 1 (NOR / PSRAM)
+- Chip Selects: can handle 4x64 MB = 256 MB
+
+Bank 2, 4
+- Not used
+
+Bank 3:
+- Addressing NAND flash memory devices
+
+Bank 5, 6:
+- SDRAM devices: each bank here can handle 4 x 64 = 256 MB -> 512 MB togethery
+- NOTE: SDRAM and ULPI interface are mutually exclusive!
 
 ## Ethernet
 - RGMII interface
 
 ## DSP
 - Full DSP instruction set
+
+### FMAC
+- Fixed point multiplier and accumulator
+	- 16x16 bit multiplication
+	- Can realize FIR and IIR filters
+
+## SPI
+### Specs
+- SPI, QSPI, OCTSPI all possible 
+	- OCTSPI mostly used for hyperbus (memory)
+- Max SPI speed
+
+
+## Clock output
+- 2 x MCO output
+
+Note: Input clock for MS9280 is +5 / +3V3 CMOS
+
+## Parallel interfaces
+Note: 
+- The input data comes from the MS9280 A/D converter at 35 MHz. CMOS 3V3 or CMOS 5V (depending on input voltage)
+	- LOW: 0.4 V
+	- High: 2.8 V
+
+### Camera interface
+- 8-14 bit camera interface
+- DCMII: CMOS 8-14 bit parallel interface, with data-rates up to 140 Mbyte/s at a 80 MHz clock
+
+### 16-bit parallel slave synchronous interface
+- CMOS / Parallel LVDS style serializer
+	- PSSI: synchronou 8/16-bit data in/out slave
+		- contains 8-word fifo
+		- Can reach up to 140 MByte/s, 80 MHz pixel clock
+		- So time multiplexing is A POSSIBILITY!
+Choose this one.
+
+### GPIO sampling + DMA
+- timer with automatic input sampling and passing on to DMA
+
+## DMA
+### DMA2D
+- 
+
+# CPU Peripheral Selection
+## FMC
+FMC 2xSDRAM bus since SDRAM is faster and cheaper. It's the only one providing adequate speed.
+
+### Signals
+- Address bus (13 bits): A0..A12
+- SDNWE (WE)
+- 
+
+##

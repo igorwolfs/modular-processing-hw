@@ -172,6 +172,9 @@ Parallel synchronous slave
 		- Input sampled on CLOCK RISING EDGE
 		- Output driven on CLOCK FALLING EDGE
 	- Note: Setting PSSI into sending OR receiving mode can only be done when peripheral is deactivated
+
+
+
 ### Interrupt
 - PSSI_OVR
 

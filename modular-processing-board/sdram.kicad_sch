@@ -1691,6 +1691,9 @@
 	(bus_alias "PMOD_IO"
 		(members "IO[1..12]")
 	)
+	(bus_alias "PSSI"
+		(members "PDCK" "D[0..15]" "DE" "RDY")
+	)
 	(bus_alias "RGMII_MDIO"
 		(members "DATA" "CLK")
 	)
@@ -1702,7 +1705,7 @@
 	)
 	(bus_alias "SDRAM_CTL"
 		(members "A[12..0]" "~{CS[0..1]}" "~{CKE[0..1]}" "CLK" "LDQM" "UDQM" "~{WE}"
-			"~{CAS}" "~{RAS}" "BS[0..1]" "CLK"
+			"~{CAS}" "~{RAS}" "BS[0..1]"
 		)
 	)
 	(bus_alias "SDRAM_D"
@@ -1710,9 +1713,6 @@
 	)
 	(bus_alias "SIGCON"
 		(members "IO[0..12]")
-	)
-	(bus_alias "USB_ULPI"
-		(members "CLK" "D[0..7]" "RST" "STP" "DIR" "NXT")
 	)
 	(rectangle
 		(start 13.97 131.064)
@@ -1761,6 +1761,16 @@
 			)
 		)
 		(uuid "d1c26153-92de-481a-bc8a-7c283157b1bb")
+	)
+	(text "- Size: 4 M x 4 banks x 16-bits SDRAM (256 Mbits)\n- Voltage: 3V3"
+		(exclude_from_sim no)
+		(at 154.432 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ff5dcdd8-3d35-4cc9-aefe-a9c40f169569")
 	)
 	(junction
 		(at 58.42 177.8)
@@ -3621,6 +3631,16 @@
 			(type default)
 		)
 		(uuid "5e30320a-d277-43fc-929a-03bbbb5357e0")
+	)
+	(wire
+		(pts
+			(xy 30.48 138.43) (xy 30.48 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ff673cc-cf3c-4c96-ab2a-4544fc6b707e")
 	)
 	(wire
 		(pts
@@ -6062,17 +6082,6 @@
 		)
 		(uuid "ff306206-6601-4a2d-b887-1037a4933995")
 	)
-	(hierarchical_label "SDRAM{SDRAM_CTL}"
-		(shape input)
-		(at 116.84 33.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3af6e295-f76e-4375-8db5-37b2d5dcc59e")
-	)
 	(hierarchical_label "SDRAM{SDRAM_D}"
 		(shape input)
 		(at 116.84 29.21 180)
@@ -6082,7 +6091,18 @@
 			)
 			(justify right)
 		)
-		(uuid "cfa0389e-c114-4e72-9430-7ea860dc2190")
+		(uuid "596407cf-b4cd-4155-b16f-31a8e7182ec8")
+	)
+	(hierarchical_label "SDRAM{SDRAM_CTL}"
+		(shape input)
+		(at 116.84 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5f4e6c27-4782-4c16-8455-c4de64c629bc")
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -6601,7 +6621,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 30.48 139.7 0)
+		(at 30.48 138.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6610,7 +6630,7 @@
 		(fields_autoplaced yes)
 		(uuid "6f77284d-e6bf-42e8-ab97-1a48fa296617")
 		(property "Reference" "#PWR0303"
-			(at 30.48 143.51 0)
+			(at 30.48 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6619,7 +6639,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 30.48 134.62 0)
+			(at 30.48 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6627,7 +6647,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 30.48 139.7 0)
+			(at 30.48 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6636,7 +6656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 30.48 139.7 0)
+			(at 30.48 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6645,7 +6665,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 30.48 139.7 0)
+			(at 30.48 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)

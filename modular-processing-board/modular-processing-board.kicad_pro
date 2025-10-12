@@ -420,6 +420,10 @@
     [
       "af776c85-f6b4-42a5-8874-b51ab1bab382",
       "sdram"
+    ],
+    [
+      "5a39632a-7d64-4b17-8b3b-2384b46c7599",
+      "usb_eth"
     ]
   ],
   "text_variables": {}

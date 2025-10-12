@@ -39,6 +39,26 @@
 				(justify left top)
 			)
 		)
+		(pin "SDRAM{SDRAM_CTL}" bidirectional
+			(at 100.076 82.55 0)
+			(uuid "85bfca0a-773d-4b26-a754-a1596c76aa04")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SDRAM{SDRAM_D}" input
+			(at 100.076 77.47 0)
+			(uuid "a8170f6a-99e6-4dd6-91c8-04d18719ba87")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293"

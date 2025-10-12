@@ -1701,8 +1701,8 @@
 		(members "CTL" "D[0..3]" "CLK")
 	)
 	(bus_alias "SDRAM_CTL"
-		(members "A[12..0]" "~{CS[0..1]}" "CKE" "CLK" "LDQM" "UDQM" "~{WE}" "~{CAS}"
-			"~{RAS}" "BS[0..1]" "CLK"
+		(members "A[12..0]" "~{CS[0..1]}" "~{CKE[0..1]}" "CLK" "LDQM" "UDQM" "~{WE}"
+			"~{CAS}" "~{RAS}" "BS[0..1]" "CLK"
 		)
 	)
 	(bus_alias "SDRAM_D"
@@ -5632,7 +5632,7 @@
 		)
 		(uuid "71b8e86d-2973-44f9-846a-d8d02127356c")
 	)
-	(label "SDRAM.CKE"
+	(label "SDRAM.~{CKE0}"
 		(at 127 93.98 0)
 		(effects
 			(font
@@ -5662,7 +5662,7 @@
 		)
 		(uuid "7beac1d2-a2a9-4380-9e85-4e7782e04bdf")
 	)
-	(label "SDRAM.~{CS0}"
+	(label "SDRAM.~{CS1}"
 		(at 203.2 92.71 0)
 		(effects
 			(font
@@ -5822,7 +5822,7 @@
 		)
 		(uuid "aa40952b-8b65-4903-9e6f-cee1abc1b437")
 	)
-	(label "SDRAM.CKE"
+	(label "SDRAM.~{CKE1}"
 		(at 203.2 95.25 0)
 		(effects
 			(font

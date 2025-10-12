@@ -148,6 +148,65 @@ FMC 2xSDRAM bus since SDRAM is faster and cheaper. It's the only one providing a
 ### Signals
 - Address bus (13 bits): A0..A12
 - SDNWE (WE)
-- 
+- CKE1, CKE2: 2 separate clock enable signals, one for each SDRAM
+- NE1, NE2: (NOT) chip enable, one for each SDRAM
+- BL0, BL1: Upper and lower byte enable for IC.
+- NCAS: CAS# (column select for address)
+- NRAS: RAS# (row select for address)
 
-##
+
+## Parallel Bus
+### PSSI 
+WARNING: mutually exclusive with the DCMI.
+
+Parallel synchronous slave
+- 8 / 16-bit communication between MCU's / MCU and FPGA.
+	- Choose 16-bit communication
+
+- Has DMA with 8-word FIFO.
+- Data transfer polarity
+	- CKPOL = 0:
+		- Input sampled on CLOCK FALLING EDGE
+		- Output driven on CLOCK RISING EDGE
+	- CKPOL = 1:
+		- Input sampled on CLOCK RISING EDGE
+		- Output driven on CLOCK FALLING EDGE
+	- Note: Setting PSSI into sending OR receiving mode can only be done when peripheral is deactivated
+### Interrupt
+- PSSI_OVR
+
+
+### Speed
+- AHB clock must be >=  2.5 times the frequency
+- CLK MAX: 550 MHz
+	- 550 / 2.5 = 220 MHz is the absolute maximum
+
+### Pinout
+- PSSI_RDY: (output) signal coming from the CPU itself indicating cpu readiness to sample data
+- PSSI_VALID: (input) signal coming from another CPU / FPGA indicating data is valid
+- PSSI_CLOCK:
+	- Clock polarity (data can be captured / transmitted on EITHER rising OR falling edge)
+- PSSI_DE: indicates data in the next cycle will be valid and will thus need to be sampled.
+
+
+## USB
+- Battery charger detection
+- 12 Mbi/s (full-speed USB)
+
+
+### Pinout
+- USB_OTG_HS_DP
+	- Internal 1k5 ohm on D+ line
+- USB_OTG_HS_DM
+- (USB_OTG_HS_ID) - UNNECESSARY, ONLY FOR USB micro A/B OTG
+	- Determines whether device acts as host or peripheral
+	- Only possible with USB micro A, micro B
+- USB_OTG_HS_VBUS
+	- VBUS (5 V) can be connected here
+	- CPU has internal regulator capable of regulating its own 3v3 supply
+	- Should be connected with a resistive divider of 5_INPUT - 4.7k - VBUS - 10k - GND
+- (USB_OTG_HS_SOF) - UNNECESSARY, MOSTLY FOR AUDIO APPLICATIONS
+
+## SPI / SD-CARD
+- Add an SPI peripiheral so I can read / write from an sd-card.
+	- Might come in handy when saving large amounts of data is necessary (e.g.: when doing testing)

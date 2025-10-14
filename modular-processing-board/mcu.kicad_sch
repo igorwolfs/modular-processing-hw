@@ -6573,6 +6573,16 @@
 		)
 		(uuid "0d1b5a15-6eb3-4d87-bd17-c756461aab45")
 	)
+	(wire
+		(pts
+			(xy 160.02 139.7) (xy 175.26 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0f6474ec-c3db-4ffc-b639-8cc1ac68d800")
+	)
 	(bus
 		(pts
 			(xy 274.32 213.36) (xy 274.32 215.9)
@@ -6715,7 +6725,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 147.32) (xy 269.24 147.32)
+			(xy 251.46 147.32) (xy 265.43 147.32)
 		)
 		(stroke
 			(width 0)
@@ -9983,6 +9993,16 @@
 		)
 		(uuid "3eba8a7e-af75-40f1-8d64-53cfd4d536fc")
 	)
+	(label "MCU_ADC12"
+		(at 265.43 147.32 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "459fe974-18f2-438f-aef3-a6042323c627")
+	)
 	(label "SDRAM.A12"
 		(at 162.56 83.82 0)
 		(effects
@@ -10072,6 +10092,16 @@
 			(justify left bottom)
 		)
 		(uuid "683b69b0-4f1b-4edc-ab92-1356c49cd0d3")
+	)
+	(label "MCU_ADC3"
+		(at 160.02 139.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6cc206d5-e991-4fa4-9572-0f03fb34c801")
 	)
 	(label "SDRAM.BS1"
 		(at 162.56 91.44 0)

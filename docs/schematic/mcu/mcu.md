@@ -219,8 +219,6 @@ Parallel synchronous slave
 - Add an SPI peripiheral so I can read / write from an sd-card.
 	- Might come in handy when saving large amounts of data is necessary (e.g.: when doing testing)
 
-## ADC
-
 ### Pinout
 - SDMMC2_D0, SDMMC2_D1, SDMMC2_D2, SDMMC2_D3 (Data lines)
 - SDMMC_CKN
@@ -262,3 +260,16 @@ Parallel synchronous slave
 - if HIGH: POR and PDR circuitry is ON
 - if LOW: POR and PDR circuitry is OFF
 	- So tigh high with 0 ohm resistor
+
+## ADC
+3 ADC's:
+- ADC1
+- ADC2
+- ADC3
+
+### ADC1, 2
+- 7.2 MSPS in double-interleaved mode
+
+### ADC3
+- 5 MSPS in 12-bit mode
+

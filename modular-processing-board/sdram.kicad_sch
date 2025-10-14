@@ -1703,6 +1703,9 @@
 	(bus_alias "RGMII_TX"
 		(members "CTL" "D[0..3]" "CLK")
 	)
+	(bus_alias "SDMMC"
+		(members "D[0..3]" "CMD" "CK")
+	)
 	(bus_alias "SDRAM_CTL"
 		(members "A[12..0]" "~{CS[0..1]}" "~{CKE[0..1]}" "CLK" "LDQM" "UDQM" "~{WE}"
 			"~{CAS}" "~{RAS}" "BS[0..1]"
@@ -1710,9 +1713,6 @@
 	)
 	(bus_alias "SDRAM_D"
 		(members "D[15..0]")
-	)
-	(bus_alias "SIGCON"
-		(members "IO[0..12]")
 	)
 	(rectangle
 		(start 13.97 131.064)

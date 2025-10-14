@@ -210,6 +210,55 @@ Parallel synchronous slave
 	- Should be connected with a resistive divider of 5_INPUT - 4.7k - VBUS - 10k - GND
 - (USB_OTG_HS_SOF) - UNNECESSARY, MOSTLY FOR AUDIO APPLICATIONS
 
+
+### Question: Does the USB_OTG_HS_VBUS have any use as a Vsense pin when power is supplied externally?
+- 
+
+
 ## SPI / SD-CARD
 - Add an SPI peripiheral so I can read / write from an sd-card.
 	- Might come in handy when saving large amounts of data is necessary (e.g.: when doing testing)
+
+## ADC
+
+### Pinout
+- SDMMC2_D0, SDMMC2_D1, SDMMC2_D2, SDMMC2_D3 (Data lines)
+- SDMMC_CKN
+- SDMMC2_CMD
+- SDMMC2_CK
+
+# Power Pin routing / Decoupling
+- Check Table 2 in AN5419
+
+## VDD
+- 100 nF for each VDD
+- 4.7 uF connected to one VDD
+
+## VDDA
+- 1 uF ceramic
+- 100 nF close to the pin
+
+## VBAT
+- Connect to VDD
+- 1 uF ceramic
+- 100 nF close
+
+## VCAP
+- 100 nF close to each VCAP pin
+- VCAP pins connected together
+
+## VDD33USB
+- 1 uF ceramic
+- 100 nF ceramic (if USB reg not used)
+- Internally tied to VDD
+
+## VREF+
+- 1 uF ceramic
+- 100 nF ceramic
+- Should be tied to the external reference voltage used for ADC
+	- Check voltage used in ADC-board, perhaps provide this voltage to VREF if needed
+
+## PDR_ON
+- if HIGH: POR and PDR circuitry is ON
+- if LOW: POR and PDR circuitry is OFF
+	- So tigh high with 0 ohm resistor

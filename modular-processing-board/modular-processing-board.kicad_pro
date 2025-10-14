@@ -423,7 +423,11 @@
     ],
     [
       "5a39632a-7d64-4b17-8b3b-2384b46c7599",
-      "usb_eth"
+      "usb"
+    ],
+    [
+      "af568620-9ac5-4253-a292-c4ce6ef3e371",
+      "connectors"
     ]
   ],
   "text_variables": {}

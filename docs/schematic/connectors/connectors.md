@@ -9,7 +9,7 @@ We have 2 options
 The main issue with those kind-of connectors is the pricepoint. Mechanical connectors with the ability to hold other PCB's at a 90 degree up-right are pretty expensive.
 
 ## vertical connectors
-They are cheaper, however in order to use those we need 
+They are cheaper, however in order to use those we need
 - OR mechanically small components in the space between the 2 boards (otherwise they mide impede the connection between the 2 boards)
 - OR double-sided component assembly
 
@@ -37,6 +37,7 @@ The advanced ones of this version also only work for standard assembly, not for 
 BIG PRO:
 - It seems like the height of these connectors can be higher than other components
 - So we might get away with putting it centrally on the boards with other components around it instead of banning it to the edge because it would otherwise interfere with other IC's mechanically
+
 ## Edge-board connectors
 Edge-board connectors are a good alternative, since they need to only be placed "on the edge".
 They are however pretty expensive and there's not that many of them available with good pin amounts.

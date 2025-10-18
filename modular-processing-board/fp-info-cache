@@ -1,4 +1,4 @@
-26241510632500018
+26246792327624371
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104237,6 +104237,20 @@ BWU.FL-IPEX1
 3
 2
 iw-connector
+HRS_DF40C-80DP-0.4V(51)
+0.4mm Pitch, Plug, vertical (source: https://www.hirose.com/en/product/document?clcode=&productname=&series=DF40&documenttype=Catalog&lang=en&documentid=en_DF40_CAT)
+conn hirose board-to-board mezzanine stacking plug
+0
+84
+81
+iw-connector
+HRS_DF40C-80DS-0.4V(51)
+
+
+0
+80
+80
+iw-connector
 Hirose_BM28-BM28B0.6-30DP-2-0.35V_2x10_P0.35mm_PowerPin2_Vertical
 Hirose BM28 series connector, BM28B0.6-30DP/2-0.35V (https://www.hirose.com/en/product/document?clcode=&productname=&series=BM28&documenttype=Catalog&lang=en&documentid=D143865_en)
 connector Hirose  BM28 30pin header vertical
@@ -104334,6 +104348,13 @@ Integrated Circuit
 0
 96
 96
+iw-memory
+TF01A
+TF-01A-6
+Connector
+0
+13
+13
 iw-memory
 W9825G6KH-6
 

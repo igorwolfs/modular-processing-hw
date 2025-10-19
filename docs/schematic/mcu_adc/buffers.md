@@ -8,6 +8,7 @@
 - Noise
 	- @1kHz: 50 nV/sqrt(Hz)
 - https://www.ti.com/lit/ds/symlink/ina333.pdf?ts=1760662953933
+
 ## OPA695 (precision)
 - Good bandwidth
 - More expensive
@@ -40,3 +41,7 @@
 
 Seems like the best option
 - The only thing that is quite shitty is the DC-offset for this one.
+
+# THS4521
+Images adc12, and adc3 were the resulting choices, some simulations can be found in the simulations/tina_ti folder that show the transfer function of these buffers with a dynamic load modelled after the stm32 parameters found in the datasheet.
+

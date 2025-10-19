@@ -45,3 +45,8 @@ They are however pretty expensive and there's not that many of them available wi
 ### DF36-15S-0.4V(51)
 - 0.446 euros per piece
 - Economic assembly
+
+# Choice
+- DF40C-80DP-0.4V(51)
+
+Stacking height: 1.5 mm

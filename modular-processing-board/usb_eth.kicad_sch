@@ -3755,7 +3755,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 78.74) (xy 204.47 78.74)
+			(xy 201.93 78.74) (xy 204.47 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4013,7 +4013,7 @@
 		)
 		(uuid "01d00a1f-5623-4071-8659-5c4b5b2901b3")
 	)
-	(label "SDMMC.CLK"
+	(label "SDMMC.CK"
 		(at 87.63 69.85 0)
 		(effects
 			(font
@@ -4117,7 +4117,7 @@
 	)
 	(hierarchical_label "USB_DM"
 		(shape bidirectional)
-		(at 203.2 78.74 180)
+		(at 201.93 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)

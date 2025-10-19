@@ -278,7 +278,56 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/adc-frontend/MCU_ADC12_FAST_INN5": [
+        "analog"
+      ],
+      "/adc-frontend/MCU_ADC12_FAST_INP5": [
+        "analog"
+      ],
+      "/adc-frontend/MCU_ADC3_DIRECT_INN0": [
+        "analog"
+      ],
+      "/adc-frontend/MCU_ADC3_DIRECT_INP0": [
+        "analog"
+      ],
+      "Net-(C1012-Pad1)": [
+        "analog"
+      ],
+      "Net-(C1016-Pad2)": [
+        "analog"
+      ],
+      "Net-(C609-Pad1)": [
+        "analog"
+      ],
+      "Net-(C610-Pad2)": [
+        "analog"
+      ],
+      "Net-(C612-Pad2)": [
+        "analog"
+      ],
+      "Net-(C613-Pad2)": [
+        "analog"
+      ],
+      "Net-(C614-Pad2)": [
+        "analog"
+      ],
+      "Net-(C615-Pad2)": [
+        "analog"
+      ],
+      "Net-(U1002-+)": [
+        "analog"
+      ],
+      "Net-(U1002--)": [
+        "analog"
+      ],
+      "Net-(U603-+)": [
+        "analog"
+      ],
+      "Net-(U603--)": [
+        "analog"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -428,6 +477,14 @@
     [
       "af568620-9ac5-4253-a292-c4ce6ef3e371",
       "connectors"
+    ],
+    [
+      "f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8",
+      "adc-frontend"
+    ],
+    [
+      "b1eff886-d94d-4f80-97b5-ef67f7e08d68",
+      "power"
     ]
   ],
   "text_variables": {}

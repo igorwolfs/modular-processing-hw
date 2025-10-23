@@ -1923,12 +1923,6 @@
 		(uuid "8340116d-6310-464d-91fd-4a677061aefd")
 	)
 	(junction
-		(at 124.46 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "845b2324-7f80-4610-847b-213df9380853")
-	)
-	(junction
 		(at 46.99 149.86)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2742,16 +2736,6 @@
 		)
 		(uuid "043df577-f765-4e63-ad04-377b9d399edd")
 	)
-	(wire
-		(pts
-			(xy 127 91.44) (xy 142.24 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0443c97d-41bd-4b16-8475-54a5fb9cc027")
-	)
 	(bus
 		(pts
 			(xy 262.89 77.47) (xy 262.89 80.01)
@@ -3212,6 +3196,16 @@
 		)
 		(uuid "38d68e91-7af1-4312-b57a-5cf4f19ad640")
 	)
+	(wire
+		(pts
+			(xy 127 91.44) (xy 142.24 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39cb312f-c021-4597-bea0-a32c7fb94c16")
+	)
 	(bus
 		(pts
 			(xy 124.46 88.9) (xy 124.46 91.44)
@@ -3564,6 +3558,16 @@
 	)
 	(bus
 		(pts
+			(xy 200.66 34.29) (xy 200.66 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59393734-a05c-4241-a743-3f2ef921530d")
+	)
+	(bus
+		(pts
 			(xy 200.66 95.25) (xy 200.66 97.79)
 		)
 		(stroke
@@ -3891,16 +3895,6 @@
 			(type default)
 		)
 		(uuid "7c5b1905-c754-4ea9-9c64-6bb87ecfb1da")
-	)
-	(bus
-		(pts
-			(xy 200.66 33.02) (xy 200.66 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f0b042f-6d88-46f7-85e3-62b8c8c45054")
 	)
 	(bus
 		(pts
@@ -4484,13 +4478,13 @@
 	)
 	(bus
 		(pts
-			(xy 124.46 33.02) (xy 200.66 33.02)
+			(xy 207.01 34.29) (xy 200.66 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b88d8f79-8097-4c5b-bfe7-60f4106a9af1")
+		(uuid "ba290677-2dca-4936-ae73-53fa9a44a76d")
 	)
 	(bus
 		(pts
@@ -5742,6 +5736,16 @@
 		)
 		(uuid "92b3842c-2ee9-49e2-8a54-4214b38d0687")
 	)
+	(label "SDRAM.~{CS0}"
+		(at 127 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "968e0cb9-c30d-4a5c-9fe4-3d889fc30796")
+	)
 	(label "SDRAM.D12"
 		(at 184.15 81.28 180)
 		(effects
@@ -5851,16 +5855,6 @@
 			(justify left bottom)
 		)
 		(uuid "ac6ba45d-ac0a-4679-9739-ae38a0ff8879")
-	)
-	(label "SDRAM.~{CS0}"
-		(at 127 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b1394aae-2f58-411c-b81e-44bd99de8b6e")
 	)
 	(label "SDRAM.BS1"
 		(at 128.27 53.34 0)
@@ -6082,6 +6076,17 @@
 		)
 		(uuid "ff306206-6601-4a2d-b887-1037a4933995")
 	)
+	(hierarchical_label "SDRAM{SDRAM_CTL}"
+		(shape input)
+		(at 207.01 34.29 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "44011458-3580-4745-8854-836d2a7aa595")
+	)
 	(hierarchical_label "SDRAM{SDRAM_D}"
 		(shape input)
 		(at 116.84 29.21 180)
@@ -6102,7 +6107,7 @@
 			)
 			(justify right)
 		)
-		(uuid "5f4e6c27-4782-4c16-8455-c4de64c629bc")
+		(uuid "fae94d45-ec88-412b-9abd-9d2bc60fea88")
 	)
 	(symbol
 		(lib_id "Device:R_Small")

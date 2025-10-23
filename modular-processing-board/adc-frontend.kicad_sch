@@ -4460,16 +4460,6 @@
 		(uuid "72395bb0-fa73-4f3c-9b6f-c8ef671e3312")
 	)
 	(label "ADC_VOCM_BUFF"
-		(at 73.66 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "935589e8-02d0-4f36-9296-a84269ae9562")
-	)
-	(label "ADC_VOCM_BUFF"
 		(at 81.28 238.76 0)
 		(effects
 			(font
@@ -5269,7 +5259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SMA_Amphenol_901-143_Vertical"
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-144_Vertical"
 			(at 31.75 234.95 0)
 			(effects
 				(font
@@ -8898,7 +8888,7 @@
 		(dnp no)
 		(uuid "62aead06-17f1-4696-be95-56c1a50a24db")
 		(property "Reference" "J1001"
-			(at 63.5 94.4997 90)
+			(at 63.5 96.012 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8985,6 +8975,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 60.96 91.44 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6361ec40-1e28-4161-bfc8-c75f9e8360a7")
+		(property "Reference" "#PWR0623"
+			(at 60.96 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 64.516 92.964 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 60.96 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 60.96 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 60.96 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42609416-4255-4f5b-b917-809d0bbfd89d")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
+					(reference "#PWR0623")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VDDA")
 		(at 151.13 34.29 0)
 		(unit 1)
@@ -9060,7 +9116,7 @@
 		(dnp yes)
 		(uuid "679a5853-34e9-45f4-96c3-c1707600c7dc")
 		(property "Reference" "R1007"
-			(at 69.342 109.22 90)
+			(at 61.976 110.49 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9068,7 +9124,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 64.262 88.392 90)
+			(at 62.992 108.712 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10130,7 +10186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Library:SMA_Amphenol_901-143_Vertical"
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-144_Vertical"
 			(at 40.64 125.73 0)
 			(effects
 				(font

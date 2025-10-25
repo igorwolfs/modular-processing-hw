@@ -1456,17 +1456,6 @@
 		)
 		(uuid "7973de8f-6502-4842-89b6-e18f2d3de798")
 	)
-	(text "Test connector\nMake stub as short as possible"
-		(exclude_from_sim no)
-		(at 159.3014 100.838 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7d8993b1-1527-4118-afea-66593bf5cfd1")
-	)
 	(text "Secondary voltage divider reference \n(just in case the reference doesn't work)"
 		(exclude_from_sim no)
 		(at 20.574 22.606 0)
@@ -1556,12 +1545,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02a5731d-eaf0-4114-a2cb-e3740c0eacb6")
-	)
-	(junction
-		(at 173.99 134.62)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "032cfdc7-43c9-4084-a506-db6f167243d1")
 	)
 	(junction
 		(at 135.89 127)
@@ -1660,12 +1643,6 @@
 		(uuid "31086c02-6a8f-4f10-b478-09ca57c2b252")
 	)
 	(junction
-		(at 175.3034 222.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3810788a-fbc6-462a-8a56-d8cb67011c57")
-	)
-	(junction
 		(at 110.49 259.08)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1732,12 +1709,6 @@
 		(uuid "696ca012-6fbe-4fc7-ac58-ae95ebe0b582")
 	)
 	(junction
-		(at 59.69 205.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "700f8433-89ee-4625-a45b-295eca2dd20a")
-	)
-	(junction
 		(at 189.23 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1786,12 +1757,6 @@
 		(uuid "89be4582-b172-4d5c-8acc-18e0253d4329")
 	)
 	(junction
-		(at 173.9466 127)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8bdd44a1-4ead-415d-a504-5f62eaa550dd")
-	)
-	(junction
 		(at 81.28 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1834,16 +1799,16 @@
 		(uuid "ae0a596e-f5da-428d-8ccb-e6748c86f5db")
 	)
 	(junction
-		(at 173.99 148.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "af84df48-f275-4907-aa77-e36afd86caf3")
-	)
-	(junction
 		(at 196.85 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "afc5a840-af41-4f60-9994-799612cc374b")
+	)
+	(junction
+		(at 166.37 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4c4bf8f-b133-46e0-b0d5-76404260d3ea")
 	)
 	(junction
 		(at 101.6 142.24)
@@ -1856,12 +1821,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ba3355ad-103b-4565-b18f-71c0ec53d32c")
-	)
-	(junction
-		(at 173.99 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bb2f7dd1-4003-4ab2-bd39-bb9ad75ebfc9")
 	)
 	(junction
 		(at 181.61 59.69)
@@ -1906,12 +1865,6 @@
 		(uuid "cfa71c47-091a-44f7-9492-c3caa22a6178")
 	)
 	(junction
-		(at 59.69 270.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d528ab56-cc0f-44eb-82e2-d33a6705791b")
-	)
-	(junction
 		(at 124.46 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1924,34 +1877,22 @@
 		(uuid "db2edb84-62f9-490e-9f34-ca9785f784e4")
 	)
 	(junction
-		(at 175.3034 257.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc9b8118-9b23-4f50-b5fe-d80d16abcc82")
-	)
-	(junction
 		(at 165.1 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f056a4b1-02a7-4524-a501-344e000617b5")
 	)
 	(junction
+		(at 166.37 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5a5ae32-eab4-4765-84f8-87057ae515b9")
+	)
+	(junction
 		(at 138.43 209.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7165b0d-09d6-464e-9fac-36031e4eb66b")
-	)
-	(junction
-		(at 66.04 161.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fd1d79e8-a97a-4c41-be29-0007f9fc1b6e")
-	)
-	(junction
-		(at 66.04 96.52)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fedf9b3c-9f1f-4624-9f2d-2f5eec355368")
 	)
 	(junction
 		(at 107.95 143.51)
@@ -1961,7 +1902,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 205.74) (xy 59.69 215.9)
+			(xy 59.69 223.52) (xy 59.69 234.95)
 		)
 		(stroke
 			(width 0)
@@ -2101,13 +2042,23 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 153.67) (xy 173.99 154.94)
+			(xy 175.26 223.52) (xy 175.26 226.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0c0acaf0-9b7d-471e-a7de-762eb3b907b8")
+		(uuid "09b5a126-7b5f-47e2-adfc-33aba397bb7b")
+	)
+	(wire
+		(pts
+			(xy 59.69 213.36) (xy 59.69 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a84b41a-0394-4307-89e8-dd5d0ba12a85")
 	)
 	(wire
 		(pts
@@ -2141,16 +2092,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 227.33) (xy 175.26 229.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10e4b311-8fe6-47de-b00e-992294a478dc")
-	)
-	(wire
-		(pts
 			(xy 121.92 257.81) (xy 121.92 259.08)
 		)
 		(stroke
@@ -2171,13 +2112,13 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 135.89) (xy 173.99 134.62)
+			(xy 148.59 115.57) (xy 166.37 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1306fc71-f43a-4559-92d4-37cbe89d878f")
+		(uuid "133c28ec-060a-446e-871c-618a1f0d6c54")
 	)
 	(wire
 		(pts
@@ -2271,6 +2212,26 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 264.16) (xy 59.69 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cec7fa0-e799-40b6-a44b-3129dfe04cfd")
+	)
+	(wire
+		(pts
+			(xy 59.69 264.16) (xy 59.69 259.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f9f4f7e-6a70-48ed-bda9-53e1b17a6279")
+	)
+	(wire
+		(pts
 			(xy 116.84 252.73) (xy 121.92 252.73)
 		)
 		(stroke
@@ -2351,16 +2312,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 118.11) (xy 173.9466 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "271daaa9-7c27-4253-bb59-2b364184353e")
-	)
-	(wire
-		(pts
 			(xy 149.86 256.54) (xy 149.86 265.43)
 		)
 		(stroke
@@ -2371,7 +2322,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 134.62) (xy 204.47 134.62)
+			(xy 166.37 134.62) (xy 204.47 134.62)
 		)
 		(stroke
 			(width 0)
@@ -2391,26 +2342,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.1934 257.81) (xy 182.9234 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b475e4f-b1a7-44ee-ad7a-c9dde973d1b1")
-	)
-	(wire
-		(pts
-			(xy 175.3034 227.33) (xy 175.3034 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2bc7d82f-4242-4cad-b24f-1703a3b6baef")
-	)
-	(wire
-		(pts
 			(xy 96.52 209.55) (xy 138.43 209.55)
 		)
 		(stroke
@@ -2418,16 +2349,6 @@
 			(type default)
 		)
 		(uuid "2bde9491-e88d-4514-8607-41a960060c3b")
-	)
-	(wire
-		(pts
-			(xy 54.61 200.66) (xy 54.61 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c2db520-f9e9-47ed-b1ed-3e060513eead")
 	)
 	(wire
 		(pts
@@ -2511,13 +2432,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 91.44) (xy 60.96 90.17)
+			(xy 160.02 257.81) (xy 175.26 257.81)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3463a093-5c1e-48f8-b2c3-381658a410b6")
+		(uuid "34cbf85a-7f88-4fd3-9ea6-0912f4b80fd6")
 	)
 	(wire
 		(pts
@@ -2531,6 +2452,16 @@
 	)
 	(wire
 		(pts
+			(xy 175.26 257.81) (xy 175.26 252.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36558490-8007-47b2-bdfd-4684e550737e")
+	)
+	(wire
+		(pts
 			(xy 204.47 134.62) (xy 212.09 134.62)
 		)
 		(stroke
@@ -2538,16 +2469,6 @@
 			(type default)
 		)
 		(uuid "3720ec07-61ef-475a-9162-87747d6c2e11")
-	)
-	(wire
-		(pts
-			(xy 54.61 199.39) (xy 59.69 199.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38417734-1abb-48f3-9cb3-4da0fb843cb5")
 	)
 	(wire
 		(pts
@@ -2598,16 +2519,6 @@
 			(type default)
 		)
 		(uuid "3b5f952d-752f-44c2-bb75-0902943dc445")
-	)
-	(wire
-		(pts
-			(xy 59.69 259.08) (xy 59.69 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ba11c71-cd11-48ff-bd46-2781268a45f8")
 	)
 	(wire
 		(pts
@@ -2671,26 +2582,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 161.29) (xy 72.39 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4293ad9d-4984-4d7c-b492-307516e5eddc")
-	)
-	(wire
-		(pts
-			(xy 175.26 234.95) (xy 175.26 236.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "429c8d28-947e-456b-994f-e99a83cade80")
-	)
-	(wire
-		(pts
 			(xy 59.69 245.11) (xy 59.69 254)
 		)
 		(stroke
@@ -2728,16 +2619,6 @@
 			(type default)
 		)
 		(uuid "48475049-3199-4f52-ad56-c323c676e49f")
-	)
-	(wire
-		(pts
-			(xy 175.3034 227.33) (xy 175.26 227.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48502ec6-5b81-4f2d-aea3-a939070714ab")
 	)
 	(wire
 		(pts
@@ -2861,16 +2742,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 148.59) (xy 181.61 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51d2fb89-8591-47e5-9f77-de78d094b2e7")
-	)
-	(wire
-		(pts
 			(xy 92.71 128.27) (xy 93.98 128.27)
 		)
 		(stroke
@@ -2941,16 +2812,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 113.03) (xy 181.61 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "559a2c3a-86b8-49ee-8144-415116431570")
-	)
-	(wire
-		(pts
 			(xy 96.52 245.11) (xy 96.52 265.43)
 		)
 		(stroke
@@ -2978,16 +2839,6 @@
 			(type default)
 		)
 		(uuid "57812c12-60a7-4c1c-a9f8-410819f586c3")
-	)
-	(wire
-		(pts
-			(xy 60.96 90.17) (xy 66.04 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57e56473-c2ea-40ea-963d-4dfe1a07706b")
 	)
 	(wire
 		(pts
@@ -3031,13 +2882,13 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 96.52) (xy 74.93 96.52)
+			(xy 166.37 121.92) (xy 166.37 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "60f267eb-e066-4268-8470-95dc803c35be")
+		(uuid "5c71ba75-bddb-421b-ab2b-bd87ff823469")
 	)
 	(wire
 		(pts
@@ -3071,16 +2922,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 113.03) (xy 173.99 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64614703-fef9-4eb1-aae4-ba11336a96ae")
-	)
-	(wire
-		(pts
 			(xy 97.79 237.49) (xy 102.87 237.49)
 		)
 		(stroke
@@ -3088,6 +2929,16 @@
 			(type default)
 		)
 		(uuid "668156e6-f38e-4092-afa8-6f458b41a2ef")
+	)
+	(wire
+		(pts
+			(xy 50.8 99.06) (xy 66.04 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cb69c80-2ff4-4146-a9f5-237ae86c3e75")
 	)
 	(wire
 		(pts
@@ -3101,13 +2952,23 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 162.56) (xy 66.04 161.29)
+			(xy 175.26 245.11) (xy 175.26 247.65)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6dcd94b2-94a5-428d-9949-9cc2a860f246")
+		(uuid "6e1f3ca7-a55c-481d-8095-13243e2145a1")
+	)
+	(wire
+		(pts
+			(xy 175.26 231.14) (xy 175.26 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e1f9900-915b-4702-a2bb-069b0bda1b18")
 	)
 	(wire
 		(pts
@@ -3151,16 +3012,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 161.29) (xy 80.01 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "726beca8-b0d2-4450-a914-c4588fcfc462")
-	)
-	(wire
-		(pts
 			(xy 49.53 125.73) (xy 66.04 125.73)
 		)
 		(stroke
@@ -3201,6 +3052,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 149.86) (xy 66.04 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7584b6f8-1883-4716-a9b7-ab6f05440f9f")
+	)
+	(wire
+		(pts
 			(xy 210.82 59.69) (xy 204.47 59.69)
 		)
 		(stroke
@@ -3208,16 +3069,6 @@
 			(type default)
 		)
 		(uuid "75edf6c2-8c76-419b-ace7-e9bd41c01b0f")
-	)
-	(wire
-		(pts
-			(xy 66.04 149.86) (xy 66.04 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76ab14b6-3fd5-4aa6-be67-064e9dc660c2")
 	)
 	(wire
 		(pts
@@ -3231,16 +3082,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 270.51) (xy 66.04 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "78ce0d5b-fcfc-4bc2-8d04-ecdc8b45b388")
-	)
-	(wire
-		(pts
 			(xy 167.64 49.53) (xy 165.1 49.53)
 		)
 		(stroke
@@ -3248,36 +3089,6 @@
 			(type default)
 		)
 		(uuid "796b00cf-4376-4a32-8d78-513e3a119f64")
-	)
-	(wire
-		(pts
-			(xy 176.53 148.59) (xy 173.99 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ad95ea2-844f-4476-9c98-e319f4d83868")
-	)
-	(wire
-		(pts
-			(xy 173.99 140.97) (xy 173.99 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b3dd0d8-3563-4e54-b127-4a3caf7d7dc0")
-	)
-	(wire
-		(pts
-			(xy 67.31 96.52) (xy 66.04 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b6e82ef-7885-4290-b1d6-ca635118a470")
 	)
 	(wire
 		(pts
@@ -3298,16 +3109,6 @@
 			(type default)
 		)
 		(uuid "7d8ae5db-aa88-4023-ac73-fa921dc42894")
-	)
-	(wire
-		(pts
-			(xy 177.8434 222.25) (xy 175.3034 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e465957-b9cb-434f-8dfa-c45b0ea955fc")
 	)
 	(wire
 		(pts
@@ -3381,16 +3182,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 95.25) (xy 66.04 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85063692-20dd-4db9-81f4-4b9a1a2ca332")
-	)
-	(wire
-		(pts
 			(xy 204.47 59.69) (xy 196.85 59.69)
 		)
 		(stroke
@@ -3398,6 +3189,16 @@
 			(type default)
 		)
 		(uuid "8598e8e1-c5bd-44ea-ab7d-fe77ecb22e81")
+	)
+	(wire
+		(pts
+			(xy 158.75 223.52) (xy 175.26 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8823d47e-d394-46a3-a809-65b37df185ec")
 	)
 	(wire
 		(pts
@@ -3441,6 +3242,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 99.06) (xy 66.04 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c64e0f8-20ad-4595-8949-a2fd164881a4")
+	)
+	(wire
+		(pts
 			(xy 49.53 135.89) (xy 66.04 135.89)
 		)
 		(stroke
@@ -3448,16 +3259,6 @@
 			(type default)
 		)
 		(uuid "90f65da3-8582-4a53-bcbd-26ce8c855cd2")
-	)
-	(wire
-		(pts
-			(xy 59.69 204.47) (xy 59.69 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91672dab-f183-4a01-a943-c7b10e4ef942")
 	)
 	(wire
 		(pts
@@ -3531,16 +3332,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 96.52) (xy 66.04 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a2295ca-dcb2-4ccb-9820-f429374a4d52")
-	)
-	(wire
-		(pts
 			(xy 116.84 251.46) (xy 116.84 250.19)
 		)
 		(stroke
@@ -3601,7 +3392,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 205.74) (xy 68.58 205.74)
+			(xy 44.45 213.36) (xy 59.69 213.36)
 		)
 		(stroke
 			(width 0)
@@ -3641,16 +3432,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.3034 250.19) (xy 175.3034 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a4af2b68-a603-4177-a2b4-29635cdbf59b")
-	)
-	(wire
-		(pts
 			(xy 66.04 125.73) (xy 76.2 125.73)
 		)
 		(stroke
@@ -3661,7 +3442,17 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 111.76) (xy 66.04 125.73)
+			(xy 166.37 134.62) (xy 166.37 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ab69a561-a41e-4eea-b149-2d2c5429134d")
+	)
+	(wire
+		(pts
+			(xy 66.04 110.49) (xy 66.04 125.73)
 		)
 		(stroke
 			(width 0)
@@ -3688,16 +3479,6 @@
 			(type default)
 		)
 		(uuid "b32f1699-c482-4326-9d0c-57489a06ad93")
-	)
-	(wire
-		(pts
-			(xy 59.69 271.78) (xy 59.69 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4d95202-71df-4549-bcff-d96f2c2cd4c6")
 	)
 	(wire
 		(pts
@@ -3728,6 +3509,16 @@
 			(type default)
 		)
 		(uuid "b92840d7-73a6-4c49-8f05-7a4db7d49e99")
+	)
+	(wire
+		(pts
+			(xy 166.37 115.57) (xy 166.37 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "babbeef7-d94a-4724-9afd-ec75732c06f3")
 	)
 	(wire
 		(pts
@@ -3781,16 +3572,6 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 220.98) (xy 59.69 234.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c976e495-71fb-41fe-87a0-220db9af245e")
-	)
-	(wire
-		(pts
 			(xy 146.05 52.07) (xy 146.05 60.96)
 		)
 		(stroke
@@ -3828,16 +3609,6 @@
 			(type default)
 		)
 		(uuid "cba2f718-f7d1-40e8-b2a4-f68313d4421a")
-	)
-	(wire
-		(pts
-			(xy 184.1934 222.25) (xy 182.9234 222.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cbb172d8-d300-4c62-b395-9a9ecb959d67")
 	)
 	(wire
 		(pts
@@ -3919,6 +3690,16 @@
 		)
 		(uuid "cf49c949-36d9-450c-b5c0-98b01e2f8379")
 	)
+	(wire
+		(pts
+			(xy 49.53 160.02) (xy 66.04 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d04bf4fe-510d-413a-95a8-d94e9381b0a6")
+	)
 	(polyline
 		(pts
 			(xy 16.256 171.704) (xy 298.704 171.704)
@@ -3971,6 +3752,16 @@
 	)
 	(wire
 		(pts
+			(xy 166.37 149.86) (xy 166.37 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2df6a86-d300-49d6-ad7a-df75c2b60a8e")
+	)
+	(wire
+		(pts
 			(xy 133.35 46.99) (xy 127 46.99)
 		)
 		(stroke
@@ -3991,16 +3782,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.9466 118.11) (xy 173.9466 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5dfd1a4-65e7-4675-858c-ea42ade0535e")
-	)
-	(wire
-		(pts
 			(xy 92.71 45.72) (xy 92.71 46.99)
 		)
 		(stroke
@@ -4011,7 +3792,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 134.62) (xy 173.99 134.62)
+			(xy 160.02 134.62) (xy 166.37 134.62)
 		)
 		(stroke
 			(width 0)
@@ -4071,6 +3852,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 149.86) (xy 166.37 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd437af3-29bc-4944-86cf-dd1237c526cc")
+	)
+	(wire
+		(pts
 			(xy 76.2 129.54) (xy 92.71 129.54)
 		)
 		(stroke
@@ -4101,36 +3892,6 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 270.51) (xy 73.66 270.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e045f301-f895-4109-bd36-3aedc5976fe7")
-	)
-	(wire
-		(pts
-			(xy 60.96 205.74) (xy 59.69 205.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4b57e7c-3fd0-4ff3-87bc-1ca61dc1b0fb")
-	)
-	(wire
-		(pts
-			(xy 173.9466 125.73) (xy 173.9466 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e6ae97bd-52f5-4e47-8bb2-958a49f90ef7")
-	)
-	(wire
-		(pts
 			(xy 138.43 209.55) (xy 149.86 209.55)
 		)
 		(stroke
@@ -4151,7 +3912,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 127) (xy 173.9466 127)
+			(xy 160.02 127) (xy 166.37 127)
 		)
 		(stroke
 			(width 0)
@@ -4171,16 +3932,6 @@
 	)
 	(wire
 		(pts
-			(xy 177.8434 257.81) (xy 175.3034 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea13cc12-53da-489b-b6ea-9ee62081d698")
-	)
-	(wire
-		(pts
 			(xy 210.82 67.31) (xy 210.82 66.04)
 		)
 		(stroke
@@ -4188,16 +3939,6 @@
 			(type default)
 		)
 		(uuid "ece0573f-d4b2-41e5-af5c-f11cff0f4b18")
-	)
-	(wire
-		(pts
-			(xy 175.3034 262.89) (xy 175.3034 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ed392c15-cb2c-4e90-9269-b09a24f39b3f")
 	)
 	(wire
 		(pts
@@ -4241,26 +3982,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 118.11) (xy 173.99 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f17c47f2-1939-47d4-8acf-e17574b4e7b7")
-	)
-	(wire
-		(pts
-			(xy 171.4934 217.17) (xy 175.3034 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1a9ac05-add4-4dc9-b2d7-f7584a345d89")
-	)
-	(wire
-		(pts
 			(xy 101.6 123.19) (xy 101.6 121.92)
 		)
 		(stroke
@@ -4281,7 +4002,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.9466 127) (xy 204.47 127)
+			(xy 166.37 127) (xy 204.47 127)
 		)
 		(stroke
 			(width 0)
@@ -4328,16 +4049,6 @@
 			(type default)
 		)
 		(uuid "f98eef79-cf61-4f36-adb4-c4aee54cdd97")
-	)
-	(wire
-		(pts
-			(xy 170.18 107.95) (xy 173.99 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fa73db35-d520-4377-98e7-c42429aa4804")
 	)
 	(wire
 		(pts
@@ -4400,17 +4111,7 @@
 		(uuid "ffe69842-d80b-4b34-93df-01c8393cdf10")
 	)
 	(label "ADC_VOCM_BUFF"
-		(at 182.88 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2a457e32-29c9-427c-bcc9-53654ff6b396")
-	)
-	(label "ADC_VOCM_BUFF"
-		(at 74.93 96.52 0)
+		(at 50.8 99.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4418,6 +4119,16 @@
 			(justify left bottom)
 		)
 		(uuid "2e5a19fc-6829-4312-ae66-25312bd70762")
+	)
+	(label "ADC_VOCM_BUFF"
+		(at 160.02 257.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4140a971-315f-43b3-96bb-68ddc1451c18")
 	)
 	(label "ADC_VOCM_BUFF"
 		(at 76.2 129.54 0)
@@ -4430,17 +4141,7 @@
 		(uuid "53630b7c-324a-495a-bf20-6ac5070c03df")
 	)
 	(label "ADC_VOCM_BUFF"
-		(at 73.66 270.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5e410ed2-a89c-42b2-8748-b13f7dd6b420")
-	)
-	(label "ADC_VOCM_BUFF"
-		(at 68.58 205.74 0)
+		(at 44.45 213.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4460,6 +4161,16 @@
 		(uuid "72395bb0-fa73-4f3c-9b6f-c8ef671e3312")
 	)
 	(label "ADC_VOCM_BUFF"
+		(at 158.75 223.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9b9f066f-1b7a-4297-b0f2-ed1260bc6e6a")
+	)
+	(label "ADC_VOCM_BUFF"
 		(at 81.28 238.76 0)
 		(effects
 			(font
@@ -4470,7 +4181,7 @@
 		(uuid "a0959bf1-2f53-4ba9-ac92-aeeb9244cf50")
 	)
 	(label "ADC_VOCM_BUFF"
-		(at 80.01 161.29 0)
+		(at 49.53 160.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4478,6 +4189,16 @@
 			(justify left bottom)
 		)
 		(uuid "d5591d00-de11-4d28-9c26-84fb0cfeac81")
+	)
+	(label "ADC_VOCM_BUFF"
+		(at 44.45 264.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d6041284-7af9-40e5-a214-f47cee0783b5")
 	)
 	(label "ADC_VOCM_BUFF"
 		(at 219.71 59.69 0)
@@ -4490,34 +4211,24 @@
 		(uuid "db1e4c50-c4f3-42c2-8c5e-d787a31f1ea5")
 	)
 	(label "ADC_VOCM_BUFF"
-		(at 182.88 148.59 0)
+		(at 149.86 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e14f294d-8b68-411e-9efc-57f31f4ae598")
+		(uuid "e70a1cc3-09a8-488e-a06b-1cc59d18abc5")
 	)
 	(label "ADC_VOCM_BUFF"
-		(at 184.1934 222.25 0)
+		(at 148.59 115.57 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "e172f8a8-cf72-42d8-aba0-1b0e5c86bae4")
-	)
-	(label "ADC_VOCM_BUFF"
-		(at 184.1934 257.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "efd5bb87-970e-45e4-b3d1-5433d127497c")
+		(uuid "eca006e3-6092-469f-ad9b-6be2d2721a00")
 	)
 	(hierarchical_label "MCU_ADC12_FAST_INP5"
 		(shape output)
@@ -5074,83 +4785,16 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 66.04 167.64 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "03fdde73-5c49-407c-af54-2004a1fae461")
-		(property "Reference" "#PWR01026"
-			(at 66.04 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 69.596 169.164 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 66.04 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e3b89c59-4cad-4111-8541-6ec6f540e80b")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR01026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
-		(at 179.07 113.03 270)
-		(mirror x)
+		(at 166.37 119.38 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "06d00090-7b05-4a95-9ffc-94828960a4bb")
-		(property "Reference" "R1010"
-			(at 179.324 116.078 90)
+		(uuid "06edf1a6-12b4-48a8-be39-123d2c5dc613")
+		(property "Reference" "R628"
+			(at 164.084 119.126 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5158,15 +4802,16 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 179.578 111.252 90)
+			(at 168.91 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 179.07 113.03 0)
+			(at 166.37 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5175,7 +4820,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 179.07 113.03 0)
+			(at 166.37 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5184,7 +4829,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 179.07 113.03 0)
+			(at 166.37 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5193,7 +4838,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 179.07 113.03 90)
+			(at 166.37 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5202,7 +4847,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C25804"
-			(at 179.07 113.03 90)
+			(at 166.37 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5211,7 +4856,7 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 179.07 113.03 90)
+			(at 166.37 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5220,15 +4865,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "4e83b469-7de6-44a4-b918-c60ed019d7d7")
+			(uuid "147f394b-9e60-4440-abd2-c80a6c00bd57")
 		)
 		(pin "1"
-			(uuid "a8bbc364-ff8c-4b27-b9bc-273bd8d76ad5")
+			(uuid "15354058-9253-48f5-afed-7da420904a7b")
 		)
 		(instances
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R1010")
+					(reference "R628")
 					(unit 1)
 				)
 			)
@@ -5657,100 +5302,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 173.9466 123.19 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "11ea2226-c892-4713-8e90-3445c44b25e4")
-		(property "Reference" "R1011"
-			(at 177.2486 123.19 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 173.9466 123.444 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 173.9466 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 173.9466 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 173.9466 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 173.9466 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C21189"
-			(at 173.9466 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 173.9466 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bdb38cde-9cae-4c0f-88e9-4811234f3ea2")
-		)
-		(pin "2"
-			(uuid "5f48043a-5052-4dd4-852f-c3968fb44fb6")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R1011")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Amplifier_Difference:THS4521IDGK")
 		(at 104.14 130.81 0)
 		(mirror x)
@@ -5876,7 +5427,7 @@
 		(dnp no)
 		(uuid "1647a9cd-5d76-4ae5-a251-69e4868b799b")
 		(property "Reference" "R625"
-			(at 157.226 121.158 90)
+			(at 157.48 125.73 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -5884,7 +5435,7 @@
 			)
 		)
 		(property "Value" "47"
-			(at 157.48 124.46 90)
+			(at 155.194 124.206 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6052,7 +5603,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 204.47 63.5 0)
 			(effects
 				(font
@@ -6098,6 +5649,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 204.47 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 204.47 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 204.47 63.5 0)
 			(effects
 				(font
@@ -6319,101 +5888,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 175.3034 247.65 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "1da45303-93c1-4aae-962e-28f4b1e39af9")
-		(property "Reference" "R620"
-			(at 178.6054 247.65 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 175.3034 247.396 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 175.3034 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 175.3034 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 175.3034 247.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 175.3034 247.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C21189"
-			(at 175.3034 247.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 175.3034 247.65 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bd8267ba-3889-46af-b73d-c887eb6d594d")
-		)
-		(pin "2"
-			(uuid "0dd6d17b-1eed-46eb-bc1d-af0334f0a8de")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R620")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 196.85 63.5 0)
 		(unit 1)
@@ -6440,7 +5914,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 196.85 63.5 0)
 			(effects
 				(font
@@ -6494,6 +5968,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C307331"
+			(at 196.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
+			(at 196.85 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c9ee24ab-8daf-4bbb-b429-2a59c664b9f4")
 		)
@@ -6510,104 +6002,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 173.99 151.13 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "20b6e05a-7d6f-4b46-bbb4-2aaeda82699e")
-		(property "Reference" "J1006"
-			(at 178.054 151.892 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 165.608 154.432 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 165.354 152.654 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 173.99 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 173.99 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 173.99 151.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 173.99 151.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 173.99 151.13 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "9ddf2b79-64e3-4fe2-96f3-fda4f4340d4a")
-		)
-		(pin "1"
-			(uuid "f2706e01-012a-4a5a-9010-f85afabcb054")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J1006")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
-		(at 69.85 96.52 270)
+		(at 66.04 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6615,7 +6011,7 @@
 		(dnp no)
 		(uuid "2192d460-2cf7-465c-a27c-1c0d8df800b5")
 		(property "Reference" "R1006"
-			(at 70.104 94.234 90)
+			(at 63.754 107.696 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6623,7 +6019,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 71.12 99.06 90)
+			(at 68.58 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6631,7 +6027,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 69.85 96.52 0)
+			(at 66.04 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6640,7 +6036,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 69.85 96.52 0)
+			(at 66.04 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6649,7 +6045,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 69.85 96.52 0)
+			(at 66.04 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6658,7 +6054,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 69.85 96.52 90)
+			(at 66.04 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6667,7 +6063,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C25804"
-			(at 69.85 96.52 90)
+			(at 66.04 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +6072,7 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 69.85 96.52 90)
+			(at 66.04 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7345,6 +6741,100 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 175.26 228.6 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "33ba9f31-9138-48d3-9f60-d6020b16b36e")
+		(property "Reference" "R609"
+			(at 177.546 228.854 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 173.228 230.632 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 175.26 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
+			(at 175.26 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 175.26 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 175.26 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C25804"
+			(at 175.26 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturing Part Number" "0603WAF1002T5E"
+			(at 175.26 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9b6a08dd-1a35-4265-bde2-3bed5651704e")
+		)
+		(pin "1"
+			(uuid "0161de0e-9e84-49d6-a701-48f361f65cb8")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
+					(reference "R609")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 46.99 125.73 90)
 		(unit 1)
@@ -7535,328 +7025,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 59.69 276.86 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "35938837-da7b-429e-bb10-c88fdb74a89a")
-		(property "Reference" "#PWR0621"
-			(at 59.69 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 63.246 278.384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 59.69 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 59.69 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 59.69 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e212a08f-b1e3-4156-8575-9bd1b24aae91")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR0621")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 59.69 256.54 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "38620b26-9b05-4ce6-b0ba-86ab18ee74f0")
-		(property "Reference" "R622"
-			(at 62.992 256.54 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 59.69 258.826 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 59.69 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 59.69 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 59.69 256.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 59.69 256.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C21189"
-			(at 59.69 256.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 59.69 256.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "06d64a11-909a-49bc-bf82-ef0bcfb5e32c")
-		)
-		(pin "2"
-			(uuid "10ed5ebe-03ed-4efc-81d9-7c409ff9524a")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R622")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 54.61 200.66 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3a0e96bb-7d44-4f8c-93c7-c49ad5065cf0")
-		(property "Reference" "#PWR0622"
-			(at 54.61 207.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 50.546 202.184 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 54.61 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 54.61 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dab39ed6-c33c-41a6-8e2e-b8cdd0fe97ca")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR0622")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 180.3834 222.25 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3acc6064-2ac3-4d61-bc07-e652c7f890d8")
-		(property "Reference" "R610"
-			(at 180.6374 225.298 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 180.8914 220.472 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 180.3834 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 180.3834 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 180.3834 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 180.3834 222.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25804"
-			(at 180.3834 222.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 180.3834 222.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "44375285-eb8b-4c63-880a-4208928f9960")
-		)
-		(pin "1"
-			(uuid "d9f4dd55-e0bb-4c74-8955-fccc970d6992")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R610")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 210.82 240.03 180)
 		(unit 1)
@@ -8018,260 +7186,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 180.3834 257.81 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4bfc2c54-debf-4323-8ac0-6e3ec2d3d75c")
-		(property "Reference" "R623"
-			(at 180.6374 255.778 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 180.6374 259.588 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 180.3834 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 180.3834 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 180.3834 257.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 180.3834 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25804"
-			(at 180.3834 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 180.3834 257.81 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "19039cf2-f1a1-4f05-8e32-5662f51d0b53")
-		)
-		(pin "1"
-			(uuid "f61baaa5-6093-436a-a07f-0cd657a978b0")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R623")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 175.26 232.41 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "4d4eab15-8d6d-4a0c-9752-a9b1121e5fed")
-		(property "Reference" "R612"
-			(at 178.562 232.41 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 175.26 232.664 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 175.26 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 175.26 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 175.26 232.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 175.26 232.41 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C21189"
-			(at 175.26 232.41 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 175.26 232.41 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "77baf2a8-bc7c-4837-bcaf-97d82238dfe0")
-		)
-		(pin "2"
-			(uuid "4b7fd293-ff42-4411-8f80-48a7e5940506")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R612")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 175.3034 264.16 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "509f733a-3bcf-4f5f-b23c-4e25e8ee3199")
-		(property "Reference" "#PWR0620"
-			(at 175.3034 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 178.8594 265.684 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.3034 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 175.3034 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 175.3034 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ebe42ac3-a3cd-446e-8f0d-4ed9ee902d40")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR0620")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:VDDA")
 		(at 116.84 250.19 0)
 		(unit 1)
@@ -8331,102 +7245,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "#PWR0618")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 175.3034 219.71 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "57545d8b-de5f-4bf7-9f92-f97aff05bffe")
-		(property "Reference" "J603"
-			(at 172.7634 221.4997 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 177.0814 225.298 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 183.9394 218.186 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 175.3034 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 175.3034 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 175.3034 219.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 175.3034 219.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 175.3034 219.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "26634e8a-3d9f-4adf-b6d1-609cd7b572c8")
-		)
-		(pin "1"
-			(uuid "b23c3f3b-1d58-4ed0-927f-1f8928ec2ceb")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J603")
 					(unit 1)
 				)
 			)
@@ -8493,196 +7311,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "#PWR0614")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 179.07 148.59 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5b83b6b9-8723-4106-a2af-2ebe9c4d51ee")
-		(property "Reference" "R1023"
-			(at 179.324 146.558 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 179.324 150.368 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 179.07 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 179.07 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 179.07 148.59 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 179.07 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25804"
-			(at 179.07 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 179.07 148.59 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "416addf1-8db3-47d9-8000-6ef312cfd795")
-		)
-		(pin "1"
-			(uuid "b9a4fb5b-03e9-4315-b9bf-de97ac3d8952")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R1023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 175.3034 260.35 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5d6ab12f-49c6-4355-be39-f6023f910d6b")
-		(property "Reference" "J605"
-			(at 179.3674 261.112 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 166.9214 263.652 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 166.6674 261.874 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 175.3034 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 175.3034 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 175.3034 260.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 175.3034 260.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 175.3034 260.35 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f9944880-05ab-45d2-8c9f-9296daa05573")
-		)
-		(pin "1"
-			(uuid "5bbf48c7-be91-4100-b811-9a71043fddf6")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J605")
 					(unit 1)
 				)
 			)
@@ -8783,209 +7411,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 59.69 274.32 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5f95bc4d-eb5f-47e4-9844-075c8ea13feb")
-		(property "Reference" "J606"
-			(at 62.23 272.5303 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 67.818 276.606 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 51.054 275.844 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 59.69 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 59.69 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 59.69 274.32 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 59.69 274.32 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 59.69 274.32 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "92447c90-c59b-48b2-b43a-cafd3647f25a")
-		)
-		(pin "1"
-			(uuid "fb8c3d9f-7016-477f-8c4b-c55b702a716e")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J606")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 66.04 92.71 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "62aead06-17f1-4696-be95-56c1a50a24db")
-		(property "Reference" "J1001"
-			(at 63.5 96.012 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 73.66 86.106 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 74.676 91.186 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 66.04 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 66.04 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 66.04 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 66.04 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 66.04 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f8bbe828-4346-4cf8-bc68-8843cc42411f")
-		)
-		(pin "1"
-			(uuid "bd1b15f0-1fcb-4910-a304-794958d3173f")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J1001")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 60.96 91.44 0)
+		(lib_id "Device:R_Small")
+		(at 59.69 256.54 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6361ec40-1e28-4161-bfc8-c75f9e8360a7")
-		(property "Reference" "#PWR0623"
-			(at 60.96 97.79 0)
+		(uuid "60dab3a3-5997-4e11-bffb-657dea6f1e62")
+		(property "Reference" "R612"
+			(at 61.976 256.286 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 57.658 254.508 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 59.69 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8993,16 +7445,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 64.516 92.964 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 60.96 91.44 0)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
+			(at 59.69 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9010,8 +7454,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 60.96 91.44 0)
+		(property "Description" "Resistor, small symbol"
+			(at 59.69 256.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9019,22 +7463,43 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 60.96 91.44 0)
+		(property "Availability" ""
+			(at 59.69 256.54 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
+		)
+		(property "LCSC Part Number" "C25804"
+			(at 59.69 256.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturing Part Number" "0603WAF1002T5E"
+			(at 59.69 256.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "74afe5f8-9f2d-4814-9084-f86e27b2c541")
 		)
 		(pin "1"
-			(uuid "42609416-4255-4f5b-b917-809d0bbfd89d")
+			(uuid "6492834e-dafa-48cc-98a5-e6777824c5de")
 		)
 		(instances
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR0623")
+					(reference "R612")
 					(unit 1)
 				)
 			)
@@ -9100,101 +7565,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "#PWR0601")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 66.04 109.22 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "679a5853-34e9-45f4-96c3-c1707600c7dc")
-		(property "Reference" "R1007"
-			(at 61.976 110.49 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 62.992 108.712 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 66.04 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 66.04 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 66.04 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 66.04 109.22 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C21189"
-			(at 66.04 109.22 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 66.04 109.22 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "347f8501-fb1a-412e-b50f-c39996322629")
-		)
-		(pin "2"
-			(uuid "c0b5f485-daf6-4c03-99bb-6ce57ba34b6c")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R1007")
 					(unit 1)
 				)
 			)
@@ -9437,7 +7807,7 @@
 		(dnp no)
 		(uuid "6eb86bbb-38b8-42b7-858e-5f6c34bf8bab")
 		(property "Reference" "R626"
-			(at 157.226 128.778 90)
+			(at 158.75 136.144 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9516,6 +7886,100 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "R626")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 66.04 147.32 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74fb6d11-bda7-44a4-ba51-6f83d9f11458")
+		(property "Reference" "R627"
+			(at 63.754 147.066 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 68.58 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 66.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
+			(at 66.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 66.04 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 66.04 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C25804"
+			(at 66.04 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturing Part Number" "0603WAF1002T5E"
+			(at 66.04 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "47adf8b6-609f-459d-a1de-92ce428771b1")
+		)
+		(pin "1"
+			(uuid "bd3be9b9-9327-4760-b364-f2f52cf3d001")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
+					(reference "R627")
 					(unit 1)
 				)
 			)
@@ -9716,24 +8180,24 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 66.04 147.32 0)
-		(mirror y)
+		(at 166.37 143.51 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
-		(uuid "79f28dd8-659c-4135-85e6-eea3c715310b")
-		(property "Reference" "R1026"
-			(at 69.342 147.32 90)
+		(dnp no)
+		(uuid "79e252ab-b3b7-4906-b3ff-03e45a9b6c57")
+		(property "Reference" "R629"
+			(at 164.084 143.764 90)
 			(effects
 				(font
-					(size 1.016 1.016)
+					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "0"
-			(at 66.04 149.606 90)
+		(property "Value" "10k"
+			(at 168.91 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9741,7 +8205,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 66.04 147.32 0)
+			(at 166.37 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9749,8 +8213,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 66.04 147.32 0)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
+			(at 166.37 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9759,7 +8223,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 66.04 147.32 0)
+			(at 166.37 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9768,7 +8232,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 66.04 147.32 90)
+			(at 166.37 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9776,8 +8240,8 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C21189"
-			(at 66.04 147.32 90)
+		(property "LCSC Part Number" "C25804"
+			(at 166.37 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9785,25 +8249,120 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 66.04 147.32 90)
+		(property "Manufacturing Part Number" "0603WAF1002T5E"
+			(at 166.37 143.51 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "dc008a1c-9f8c-4ed7-818a-ae02360d8aa2")
 		)
 		(pin "2"
-			(uuid "2689ab9c-699d-40f9-89b3-a6c1d7799778")
+			(uuid "a2ec85fa-4990-4393-ae5d-4444fcc2baad")
+		)
+		(pin "1"
+			(uuid "c8335e6e-076f-43b8-ada0-c3fdab1bd239")
 		)
 		(instances
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R1026")
+					(reference "R629")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 175.26 250.19 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a745742-bda3-4ecf-91c0-db9706bb0b57")
+		(property "Reference" "R610"
+			(at 177.546 249.936 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 173.228 248.158 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 175.26 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
+			(at 175.26 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 175.26 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 175.26 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C25804"
+			(at 175.26 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturing Part Number" "0603WAF1002T5E"
+			(at 175.26 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2d7890b3-c0ae-43f8-a239-a07dceb555d9")
+		)
+		(pin "1"
+			(uuid "c7376eca-ea0c-46d8-b2c9-f70686ae3821")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
+					(reference "R610")
 					(unit 1)
 				)
 			)
@@ -10067,101 +8626,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 59.69 218.44 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "872d3ff9-62a8-4390-9ca4-5a57210436c5")
-		(property "Reference" "R609"
-			(at 62.992 218.186 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 62.23 215.392 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 59.69 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 59.69 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 59.69 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 59.69 218.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C21189"
-			(at 59.69 218.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 59.69 218.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0a769539-5f5d-4669-9c34-502b2d202941")
-		)
-		(pin "2"
-			(uuid "c49ee4a3-d3e6-4995-a5ce-f272c6a51bb2")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R609")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Conn_Coaxial_Small")
 		(at 40.64 125.73 180)
 		(unit 1)
@@ -10353,7 +8817,7 @@
 		(dnp no)
 		(uuid "946569b9-7412-4e4e-8f2b-69c75853b761")
 		(property "Reference" "R618"
-			(at 164.8894 237.998 90)
+			(at 160.528 243.586 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -10498,167 +8962,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "#PWR0602")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 66.04 165.1 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "97b23904-f213-4cc7-872f-c3e9ed59f25c")
-		(property "Reference" "J1008"
-			(at 68.58 163.3103 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 74.168 167.386 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 57.404 166.624 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 66.04 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 66.04 165.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 66.04 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 66.04 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 66.04 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cca38d5f-a3d1-487a-95e6-d0be4235b17f")
-		)
-		(pin "1"
-			(uuid "64528a90-bdbd-421c-8d9a-f971d2efc716")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J1008")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 170.18 107.95 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a38bcd47-7a24-495f-afb9-fbe7c9eeacd1")
-		(property "Reference" "#PWR01011"
-			(at 170.18 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 169.418 105.156 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 170.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "629476bd-83b1-4375-b562-24aecd63427e")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR01011")
 					(unit 1)
 				)
 			)
@@ -10952,100 +9255,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 74.93 161.29 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ab172497-41de-4f5d-8eb6-72fee28a5f98")
-		(property "Reference" "R1028"
-			(at 75.184 158.242 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 78.74 162.306 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 74.93 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 74.93 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 74.93 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 74.93 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25804"
-			(at 74.93 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 74.93 161.29 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b8cf0a6d-0832-4d71-bf96-b7c6e310e87b")
-		)
-		(pin "1"
-			(uuid "e906bd68-a6d1-47f9-a5f4-0150ddac9256")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R1028")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
 		(at 91.44 36.83 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11281,7 +9490,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 210.82 63.5 0)
 			(effects
 				(font
@@ -11335,6 +9544,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C307331"
+			(at 210.82 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
+			(at 210.82 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "45de7834-c0f8-49fd-925d-ed9b3d970ec0")
 		)
@@ -11352,7 +9579,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 63.5 205.74 270)
+		(at 59.69 220.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11360,7 +9587,7 @@
 		(dnp no)
 		(uuid "b53ab5f3-ecb3-47e8-abf0-4299ed6ef243")
 		(property "Reference" "R608"
-			(at 63.754 203.454 90)
+			(at 61.976 221.234 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11368,7 +9595,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 65.532 207.772 90)
+			(at 57.658 223.012 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11376,7 +9603,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 63.5 205.74 0)
+			(at 59.69 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11385,7 +9612,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 63.5 205.74 0)
+			(at 59.69 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11394,7 +9621,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 63.5 205.74 0)
+			(at 59.69 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11403,7 +9630,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 63.5 205.74 90)
+			(at 59.69 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11412,7 +9639,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C25804"
-			(at 63.5 205.74 90)
+			(at 59.69 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11421,7 +9648,7 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 63.5 205.74 90)
+			(at 59.69 220.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11510,102 +9737,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 173.99 110.49 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b9638250-e49c-4b69-934e-9c786ce006ba")
-		(property "Reference" "J1002"
-			(at 171.45 112.2797 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 175.768 116.078 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 182.626 108.966 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 173.99 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 173.99 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 173.99 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 173.99 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 173.99 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ceebce47-7469-4a94-927a-4d2405ac24ed")
-		)
-		(pin "1"
-			(uuid "350592eb-e484-4e57-b220-af8fa98e8f1e")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J1002")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 107.95 146.05 0)
 		(unit 1)
@@ -11632,7 +9763,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 107.95 146.05 0)
 			(effects
 				(font
@@ -11678,6 +9809,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 107.95 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 107.95 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 107.95 146.05 0)
 			(effects
 				(font
@@ -12013,7 +10162,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 218.44 63.5 0)
 			(effects
 				(font
@@ -12067,6 +10216,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C307331"
+			(at 218.44 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
+			(at 218.44 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b37e91e0-07ca-4548-846d-64b35141aadf")
 		)
@@ -12077,197 +10244,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "C608")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 173.99 138.43 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(uuid "cb1b8f6c-0089-4f56-b62f-3a8f94560675")
-		(property "Reference" "R1022"
-			(at 177.292 138.43 90)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 173.99 138.176 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 173.99 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706226143518720"
-			(at 173.99 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 173.99 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 173.99 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C21189"
-			(at 173.99 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF0000T5E"
-			(at 173.99 138.43 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "69281fed-63af-4609-b6c5-c62d03459a3f")
-		)
-		(pin "2"
-			(uuid "9304bebd-9332-470e-82f7-afab17c3fae5")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R1022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_Coaxial_Small")
-		(at 59.69 201.93 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cbbf9616-1d08-4069-b306-9003118fb296")
-		(property "Reference" "J602"
-			(at 65.532 198.882 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BWU.FL-IPEX1"
-			(at 49.784 198.628 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-connector:BWU.FL-IPEX1"
-			(at 68.326 200.406 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589834880826564608"
-			(at 59.69 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "small coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 59.69 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 59.69 201.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C5137195"
-			(at 59.69 201.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "BWU.FL-IPEX1 "
-			(at 59.69 201.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "810c91dd-16c0-4dc9-9a52-372b6f6200a9")
-		)
-		(pin "1"
-			(uuid "b76722b5-d953-4354-beea-316ad9827eba")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "J602")
 					(unit 1)
 				)
 			)
@@ -12300,7 +10276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 189.23 63.5 0)
 			(effects
 				(font
@@ -12346,6 +10322,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 189.23 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 189.23 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 189.23 63.5 0)
 			(effects
 				(font
@@ -12396,7 +10390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 116.84 255.27 0)
 			(effects
 				(font
@@ -12442,6 +10436,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 116.84 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 116.84 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 116.84 255.27 0)
 			(effects
 				(font
@@ -12572,7 +10584,7 @@
 		(dnp no)
 		(uuid "d739a76d-c578-4092-8880-fe0c870fc2ae")
 		(property "Reference" "R614"
-			(at 164.8894 230.378 90)
+			(at 161.544 235.458 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -13321,7 +11333,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 147.32 39.37 0)
 			(effects
 				(font
@@ -13367,6 +11379,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 147.32 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 147.32 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 147.32 39.37 0)
 			(effects
 				(font
@@ -13581,71 +11611,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 171.4934 217.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eaba45ab-702d-477c-8f9e-db69b16d55fb")
-		(property "Reference" "#PWR0611"
-			(at 171.4934 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 170.7314 214.376 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 171.4934 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 171.4934 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 171.4934 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ff640485-3c3d-4114-8d6d-db92bda6fba4")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR0611")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 204.47 130.81 180)
 		(unit 1)
@@ -13802,166 +11767,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "#PWR0607")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 173.99 154.94 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ec318a24-6cfb-4f0e-b188-4a04b1be72e6")
-		(property "Reference" "#PWR01021"
-			(at 173.99 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 177.546 156.464 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 173.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 173.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 173.99 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ef31a4e7-1970-4e51-b499-5b7e37c2a282")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "#PWR01021")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 68.58 270.51 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f348c281-427f-4e39-b25a-27791668af90")
-		(property "Reference" "R624"
-			(at 68.834 267.462 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 72.39 271.526 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 68.58 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706098733010944"
-			(at 68.58 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 68.58 270.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 68.58 270.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25804"
-			(at 68.58 270.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 68.58 270.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8bd0f5d5-5015-437f-95d4-1594ec8c720c")
-		)
-		(pin "1"
-			(uuid "b9895a62-bea3-46b6-89e8-40871c984eee")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "R624")
 					(unit 1)
 				)
 			)

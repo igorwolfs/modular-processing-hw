@@ -12669,7 +12669,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 321.31 34.29 0)
 			(effects
 				(font
@@ -12715,6 +12715,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 321.31 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 321.31 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 321.31 34.29 0)
 			(effects
 				(font
@@ -12765,7 +12783,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 67.31 233.68 0)
 			(effects
 				(font
@@ -12811,6 +12829,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 67.31 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 67.31 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 67.31 233.68 0)
 			(effects
 				(font
@@ -14054,6 +14090,71 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
+		(at 354.33 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54297d3b-f030-4edf-8977-5666295f27b9")
+		(property "Reference" "#PWR0228"
+			(at 354.33 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 358.14 26.162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 354.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 354.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 354.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0b172a9e-2117-4bca-835d-8cdb9edf167d")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
+					(reference "#PWR0228")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
 		(at 328.93 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14144,7 +14245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 321.31 95.25 0)
 			(effects
 				(font
@@ -14181,6 +14282,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 321.31 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 321.31 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 321.31 95.25 0)
 			(effects
 				(font
@@ -15009,7 +15128,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 283.21 34.29 0)
 			(effects
 				(font
@@ -15055,6 +15174,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 283.21 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 283.21 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 283.21 34.29 0)
 			(effects
 				(font
@@ -15201,7 +15338,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 351.79 34.29 0)
 			(effects
 				(font
@@ -15247,6 +15384,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 351.79 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 351.79 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 351.79 34.29 0)
 			(effects
 				(font
@@ -15576,7 +15731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 327.66 34.29 0)
 			(effects
 				(font
@@ -15622,6 +15777,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 327.66 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 327.66 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 327.66 34.29 0)
 			(effects
 				(font
@@ -15738,7 +15911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 295.91 34.29 0)
 			(effects
 				(font
@@ -15784,6 +15957,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 295.91 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 295.91 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 295.91 34.29 0)
 			(effects
 				(font
@@ -16120,7 +16311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 363.22 147.32 0)
 			(effects
 				(font
@@ -16157,6 +16348,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 363.22 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 363.22 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 363.22 147.32 0)
 			(effects
 				(font
@@ -16207,7 +16416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 289.56 34.29 0)
 			(effects
 				(font
@@ -16253,6 +16462,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 289.56 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 289.56 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 289.56 34.29 0)
 			(effects
 				(font
@@ -16303,7 +16530,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 59.69 233.68 0)
 			(effects
 				(font
@@ -16349,6 +16576,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 59.69 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 59.69 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 59.69 233.68 0)
 			(effects
 				(font
@@ -16399,7 +16644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 367.03 34.29 0)
 			(effects
 				(font
@@ -16453,6 +16698,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C307331"
+			(at 367.03 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
+			(at 367.03 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5c9ef877-66d2-492a-b3b8-23493edc854a")
 		)
@@ -16463,71 +16726,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "C213")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VDDA")
-		(at 354.33 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "99dc294f-9e22-40d5-b100-d9d183664ad9")
-		(property "Reference" "#PWR0210"
-			(at 354.33 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VDDA"
-			(at 358.394 26.162 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 354.33 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 354.33 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VDDA\""
-			(at 354.33 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1f3b8f4d-6642-48cc-9015-35895b466e4c")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -16934,7 +17132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 387.35 93.98 0)
 			(effects
 				(font
@@ -16971,6 +17169,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 387.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 387.35 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 387.35 93.98 0)
 			(effects
 				(font
@@ -17271,7 +17487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 302.26 34.29 0)
 			(effects
 				(font
@@ -17317,6 +17533,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 302.26 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 302.26 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 302.26 34.29 0)
 			(effects
 				(font
@@ -17367,7 +17601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 334.01 34.29 0)
 			(effects
 				(font
@@ -17413,6 +17647,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 334.01 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 334.01 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 334.01 34.29 0)
 			(effects
 				(font
@@ -17463,7 +17715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 314.96 34.29 0)
 			(effects
 				(font
@@ -17509,6 +17761,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 314.96 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 314.96 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 314.96 34.29 0)
 			(effects
 				(font
@@ -17625,7 +17895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 308.61 34.29 0)
 			(effects
 				(font
@@ -17671,6 +17941,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 308.61 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 308.61 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 308.61 34.29 0)
 			(effects
 				(font
@@ -17721,7 +18009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 276.86 34.29 0)
 			(effects
 				(font
@@ -17767,6 +18055,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 276.86 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 276.86 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 276.86 34.29 0)
 			(effects
 				(font
@@ -17817,7 +18123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 252.73 34.29 0)
 			(effects
 				(font
@@ -17863,6 +18169,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 252.73 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 252.73 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 252.73 34.29 0)
 			(effects
 				(font
@@ -18138,7 +18462,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 388.62 34.29 0)
 			(effects
 				(font
@@ -18184,6 +18508,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 388.62 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 388.62 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 388.62 34.29 0)
 			(effects
 				(font
@@ -18724,7 +19066,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 270.51 34.29 0)
 			(effects
 				(font
@@ -18770,6 +19112,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 270.51 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 270.51 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 270.51 34.29 0)
 			(effects
 				(font

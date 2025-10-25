@@ -5381,7 +5381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 223.52 114.3 0)
 			(effects
 				(font
@@ -5427,6 +5427,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
+			(at 223.52 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C307331"
+			(at 223.52 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KB54PNC"
 			(at 223.52 114.3 0)
 			(effects
 				(font

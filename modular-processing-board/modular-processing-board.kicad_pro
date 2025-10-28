@@ -476,11 +476,23 @@
       },
       {
         "bus_width": 12,
-        "name": "analog",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "name": "ADC",
+        "pcb_color": "rgb(194, 194, 0)",
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "wire_width": 6
+      },
+      {
+        "name": "PSSI",
+        "pcb_color": "rgb(0, 132, 0)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
+      },
+      {
+        "name": "SDRAM",
+        "pcb_color": "rgb(0, 194, 194)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
     "meta": {
@@ -488,6 +500,15 @@
     },
     "net_colors": null,
     "netclass_assignments": {
+      "/adc-frontend/ADC3_IAMP-": [
+        "analog"
+      ],
+      "/adc-frontend/ADC3_OAMP+": [
+        "analog"
+      ],
+      "/adc-frontend/ADC3_OAMP-": [
+        "analog"
+      ],
       "/adc-frontend/MCU_ADC12_FAST_INN5": [
         "analog"
       ],
@@ -537,7 +558,24 @@
         "analog"
       ]
     },
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Default",
+        "pattern": "**SDRAM**"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "**PSSI**"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "**ADC**"
+      },
+      {
+        "netclass": "Default",
+        "pattern": ""
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {

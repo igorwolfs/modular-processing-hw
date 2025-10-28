@@ -5670,12 +5670,6 @@
 		(uuid "1c9a62d8-8473-43f1-a129-91faae805c08")
 	)
 	(junction
-		(at 321.31 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1cee15be-be5d-47f0-af12-9777b0365e29")
-	)
-	(junction
 		(at 110.49 250.19)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5752,12 +5746,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ed867e4-68c1-450c-a431-70359dcf4ee2")
-	)
-	(junction
-		(at 316.23 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "50c83fbd-ac14-450e-8e3e-89d01337753a")
 	)
 	(junction
 		(at 327.66 38.1)
@@ -5902,12 +5890,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c59112ac-186a-4429-8657-55241a2a9dd5")
-	)
-	(junction
-		(at 316.23 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c8046b10-eac1-4ab0-bafe-3f95d2b334cd")
 	)
 	(junction
 		(at 302.26 38.1)
@@ -7038,26 +7020,6 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 86.36) (xy 346.71 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2063615c-96b5-4e70-a1b3-ece597555b0c")
-	)
-	(wire
-		(pts
-			(xy 316.23 80.01) (xy 316.23 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2175a73c-08c1-4a8d-9fec-706028cd3eac")
-	)
-	(wire
-		(pts
 			(xy 161.29 146.05) (xy 148.59 146.05)
 		)
 		(stroke
@@ -7075,16 +7037,6 @@
 			(type default)
 		)
 		(uuid "22a69480-87fe-4351-98fb-4acb53ca1a95")
-	)
-	(wire
-		(pts
-			(xy 321.31 100.33) (xy 316.23 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23dc50de-9310-4ca3-b255-f391836bfd70")
 	)
 	(wire
 		(pts
@@ -7115,16 +7067,6 @@
 			(type default)
 		)
 		(uuid "25e0dac9-32f8-46c0-8b55-9a1eb3868415")
-	)
-	(wire
-		(pts
-			(xy 321.31 97.79) (xy 321.31 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "265dad8f-17fe-4c55-a7ef-e1339ca90af3")
 	)
 	(wire
 		(pts
@@ -7688,16 +7630,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 99.06) (xy 316.23 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48732b6d-41cd-4aa6-8e82-47e95b46e777")
-	)
-	(wire
-		(pts
 			(xy 289.56 29.21) (xy 289.56 31.75)
 		)
 		(stroke
@@ -7795,16 +7727,6 @@
 			(type default)
 		)
 		(uuid "5128a7d8-113a-4674-bc4b-75fd17820b39")
-	)
-	(wire
-		(pts
-			(xy 321.31 86.36) (xy 321.31 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5182b0c8-cbfb-497b-ae5a-1d53c6431556")
 	)
 	(wire
 		(pts
@@ -8788,16 +8710,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 100.33) (xy 316.23 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95e13800-8e76-4bb1-8173-639110e8f2fa")
-	)
-	(wire
-		(pts
 			(xy 162.56 229.87) (xy 162.56 232.41)
 		)
 		(stroke
@@ -9465,16 +9377,6 @@
 			(type default)
 		)
 		(uuid "bf5701bd-948d-4af7-902f-c3b9d490b9c3")
-	)
-	(wire
-		(pts
-			(xy 316.23 92.71) (xy 316.23 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bffd06a2-9b04-4b97-b2c0-51df7c9ea0ef")
 	)
 	(wire
 		(pts
@@ -10346,26 +10248,6 @@
 		)
 		(uuid "f200eaa1-d34e-46ca-bc62-3de9aa2c6c07")
 	)
-	(wire
-		(pts
-			(xy 321.31 82.55) (xy 316.23 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2e49f3d-c784-4f6d-96ee-1a793149faca")
-	)
-	(wire
-		(pts
-			(xy 321.31 82.55) (xy 321.31 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f3019f32-c6d1-46c6-abe9-27204a07e06b")
-	)
 	(bus
 		(pts
 			(xy 168.91 163.83) (xy 168.91 166.37)
@@ -10438,16 +10320,6 @@
 	)
 	(wire
 		(pts
-			(xy 316.23 73.66) (xy 316.23 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f964609c-8134-44dc-8889-7b5c327867b0")
-	)
-	(wire
-		(pts
 			(xy 276.86 38.1) (xy 270.51 38.1)
 		)
 		(stroke
@@ -10515,6 +10387,16 @@
 			(type default)
 		)
 		(uuid "fdae05c9-e76c-4ed7-8956-beee31229737")
+	)
+	(wire
+		(pts
+			(xy 328.93 86.36) (xy 346.71 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "feaa8560-dd84-4186-ba4b-0b02c018b59e")
 	)
 	(wire
 		(pts
@@ -12228,73 +12110,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 316.23 73.66 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "121150df-c5d3-4793-9e8e-fb8208a55c11")
-		(property "Reference" "#PWR0212"
-			(at 316.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 316.23 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 316.23 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 316.23 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 316.23 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1c1af235-eb16-49d6-ae9b-83da0cf55406")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "#PWR0212")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 318.77 144.78 0)
 		(unit 1)
@@ -13031,72 +12846,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 316.23 101.6 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "21b55dd0-d82b-457f-9d62-634d12e85930")
-		(property "Reference" "#PWR0220"
-			(at 316.23 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 313.182 102.108 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 316.23 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 316.23 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 316.23 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "42d9e838-9dd6-4c34-afc6-96fa0fcfcb12")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "#PWR0220")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small")
 		(at 392.43 95.25 0)
 		(unit 1)
@@ -13179,101 +12928,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "R701")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 316.23 77.47 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "253cf488-3678-4866-a231-7132a04579cb")
-		(property "Reference" "R207"
-			(at 311.658 75.946 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "10k"
-			(at 313.436 78.232 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 316.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579706265439817728"
-			(at 316.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 316.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 316.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25804"
-			(at 316.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 316.23 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "be06771d-ab40-445d-973f-9f8bc9d08b43")
-		)
-		(pin "1"
-			(uuid "29af85f6-77a3-4099-91d6-f435f6e4d205")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "R207")
 					(unit 1)
 				)
 			)
@@ -13847,95 +13501,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small")
-		(at 316.23 96.52 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4d8143b5-1985-4906-9fdd-06237f167f99")
-		(property "Reference" "R208"
-			(at 313.69 95.2499 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "470"
-			(at 313.69 97.7899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 316.23 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705913233424384"
-			(at 316.23 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 316.23 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25117"
-			(at 316.23 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402WGF4700TCE"
-			(at 316.23 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6dd8d1b7-3f0b-4d72-8fc4-ece615d6f36b")
-		)
-		(pin "2"
-			(uuid "a2751269-eec8-4d42-a749-41f5faf61a60")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "R208")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 278.13 40.64 0)
 		(unit 1)
@@ -14213,111 +13778,6 @@
 			(project ""
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "#PWR0204")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 321.31 95.25 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "57768977-d268-4d88-b126-9423974597bd")
-		(property "Reference" "C216"
-			(at 325.12 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 324.104 97.536 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 321.31 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603345729432014848"
-			(at 321.31 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 321.31 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 321.31 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 321.31 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LPN" "C307331"
-			(at 321.31 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL05B104KB54PNC"
-			(at 321.31 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "596a1502-5e49-4d28-9d54-c8007a385868")
-		)
-		(pin "1"
-			(uuid "8d78ea80-9995-4db1-b8d5-bc4204e1bfa3")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "C216")
 					(unit 1)
 				)
 			)
@@ -15993,94 +15453,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "C208")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 316.23 87.63 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "858b6040-da2e-491a-b741-85f003d2e84a")
-		(property "Reference" "SW201"
-			(at 313.182 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 314.198 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "iw-misc:SW_TS-1088-AR02016"
-			(at 311.15 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588886944068096000"
-			(at 311.15 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 316.23 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C720477"
-			(at 316.23 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "TS-1088-AR02016"
-			(at 316.23 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c28542ce-b95f-4a56-8ba4-4b5750b40e15")
-		)
-		(pin "1"
-			(uuid "d2fea720-acbf-4a08-ade2-60fec5b348ef")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "SW201")
 					(unit 1)
 				)
 			)

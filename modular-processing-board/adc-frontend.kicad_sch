@@ -1595,6 +1595,12 @@
 		(uuid "1a64f16c-07b2-494f-b52e-a45ff7ec6d21")
 	)
 	(junction
+		(at 180.34 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b02eadc-2bf4-40a5-9af8-ae55a0310643")
+	)
+	(junction
 		(at 210.82 236.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1635,12 +1641,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2def7afc-ba5d-40c7-be35-8c18be83ddf2")
-	)
-	(junction
-		(at 101.6 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2ec55a1d-b848-4bd5-ab5c-22e9ac877659")
 	)
 	(junction
 		(at 138.43 237.49)
@@ -1703,12 +1703,6 @@
 		(uuid "68dc7623-7d6c-43ce-87e6-9c8dca2b38a3")
 	)
 	(junction
-		(at 110.49 252.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "696ca012-6fbe-4fc7-ac58-ae95ebe0b582")
-	)
-	(junction
 		(at 189.23 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1749,12 +1743,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84df0393-0a7c-4b1b-a05d-4060823e323f")
-	)
-	(junction
-		(at 179.07 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "89be4582-b172-4d5c-8acc-18e0253d4329")
 	)
 	(junction
 		(at 81.28 36.83)
@@ -1805,16 +1793,16 @@
 		(uuid "afc5a840-af41-4f60-9994-799612cc374b")
 	)
 	(junction
+		(at 101.6 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b32c1394-c1f5-4b50-8663-0d65724372ae")
+	)
+	(junction
 		(at 166.37 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b4c4bf8f-b133-46e0-b0d5-76404260d3ea")
-	)
-	(junction
-		(at 101.6 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b9966642-9c61-4261-9b32-0ca0556fb76d")
 	)
 	(junction
 		(at 210.82 59.69)
@@ -1875,6 +1863,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db2edb84-62f9-490e-9f34-ca9785f784e4")
+	)
+	(junction
+		(at 110.49 252.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dcba84cd-dc3e-4083-bf6f-be3f5f43e702")
+	)
+	(junction
+		(at 107.95 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd348b5c-89d4-4a5d-9d14-2972bb96f473")
 	)
 	(junction
 		(at 165.1 49.53)
@@ -1962,7 +1962,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 59.69) (xy 179.07 59.69)
+			(xy 176.53 59.69) (xy 180.34 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2229,6 +2229,26 @@
 			(type default)
 		)
 		(uuid "1cec7fa0-e799-40b6-a44b-3129dfe04cfd")
+	)
+	(wire
+		(pts
+			(xy 101.6 148.59) (xy 101.6 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d7cd4e8-b0f3-486a-8b66-06674e0aaafb")
+	)
+	(wire
+		(pts
+			(xy 107.95 142.24) (xy 107.95 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f782dd7-77a7-4365-ab08-6410ce0275a7")
 	)
 	(wire
 		(pts
@@ -2842,6 +2862,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 143.51) (xy 101.6 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5898d99b-f140-49df-ac4c-f7daffbe2985")
+	)
+	(wire
+		(pts
 			(xy 96.52 234.95) (xy 102.87 234.95)
 		)
 		(stroke
@@ -2879,16 +2909,6 @@
 			(type default)
 		)
 		(uuid "5aa835ee-bda9-43e7-a49f-aff41076a47c")
-	)
-	(wire
-		(pts
-			(xy 107.95 142.24) (xy 101.6 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c105ee1-e314-4c39-b6f4-eb26a6225125")
 	)
 	(wire
 		(pts
@@ -3152,16 +3172,6 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 149.86) (xy 101.6 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83b45089-4443-441c-aafb-3ec4a12e13f0")
-	)
-	(wire
-		(pts
 			(xy 111.76 133.35) (xy 124.46 133.35)
 		)
 		(stroke
@@ -3389,16 +3399,6 @@
 			(type default)
 		)
 		(uuid "9fe9287b-744e-4390-9c38-dcee3a76ed96")
-	)
-	(wire
-		(pts
-			(xy 179.07 59.69) (xy 176.53 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a04b1a49-2b67-4482-9b6c-9e5e181a5635")
 	)
 	(wire
 		(pts
@@ -3732,7 +3732,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 143.51) (xy 107.95 143.51)
+			(xy 101.6 142.24) (xy 107.95 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3902,6 +3902,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 59.69) (xy 181.61 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e77b5f36-f0d1-4604-9b69-c2f35882cdf3")
+	)
+	(wire
+		(pts
 			(xy 160.02 127) (xy 166.37 127)
 		)
 		(stroke
@@ -4019,16 +4029,6 @@
 			(type default)
 		)
 		(uuid "f7012f2f-8d37-4d33-9dce-c2a551d73697")
-	)
-	(wire
-		(pts
-			(xy 101.6 142.24) (xy 101.6 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f89b0bd7-658b-4143-9a20-65024cac300b")
 	)
 	(wire
 		(pts
@@ -4580,102 +4580,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 110.49 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0167f232-d17f-47c6-8aaf-c4cd245117c0")
-		(property "Reference" "C616"
-			(at 110.998 253.746 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 110.998 257.048 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 110.49 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707107920437248"
-			(at 110.49 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 110.49 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 110.49 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C19702"
-			(at 110.49 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL10A106KP8NNNC"
-			(at 110.49 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "80ed98a1-3594-4ef3-bd4b-cbdfc36c66f7")
-		)
-		(pin "1"
-			(uuid "3a055bf5-31fc-4ca9-9bd5-192a93836219")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "C616")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -5712,72 +5616,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "#PWR0615")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 179.07 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(uuid "1b257af2-d555-42cf-886b-4e896da87ed3")
-		(property "Reference" "TP602"
-			(at 179.832 51.308 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 179.578 53.594 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
-			(at 184.15 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 184.15 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 179.07 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9be05435-2183-462b-a5a4-df0aa5b7af8e")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "TP602")
 					(unit 1)
 				)
 			)
@@ -7558,7 +7396,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Loop_D1.80mm_Drill1.0mm_Beaded"
+		(property "Footprint" "iw-misc:TestPoint_Pad_D0.5mm"
 			(at 120.65 39.37 0)
 			(effects
 				(font
@@ -8937,10 +8775,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a7bd5065-8444-4855-aac7-dd21be89ced3")
 		(property "Reference" "R602"
-			(at 173.99 54.61 90)
+			(at 173.482 54.864 90)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -9209,6 +9046,102 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "R621")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 101.6 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "adb5eab6-b58e-41bd-9d7c-13dc4f7f648a")
+		(property "Reference" "C619"
+			(at 98.806 148.336 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 105.156 144.018 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 101.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707315714920448"
+			(at 101.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "X5R, 10V"
+			(at 104.902 145.542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 101.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C23733"
+			(at 101.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturing Part Number" "CL05A475MP5NRNC"
+			(at 101.6 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "af4924a2-023f-4c36-9a5d-151b0f60144c")
+		)
+		(pin "1"
+			(uuid "905b5095-1c71-4281-a2bc-dd4aff852915")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
+					(reference "C619")
 					(unit 1)
 				)
 			)
@@ -10211,6 +10144,72 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 180.34 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "cadda4f9-5603-456f-bae3-7416e2057f32")
+		(property "Reference" "TP602"
+			(at 175.26 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 175.26 51.562 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "iw-misc:TestPoint_Pad_D0.5mm"
+			(at 185.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "test point"
+			(at 180.34 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "320ea8fa-866a-4714-9561-6aa625cdbaa8")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
+					(reference "TP602")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 189.23 63.5 0)
 		(unit 1)
@@ -10433,102 +10432,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "C617")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 101.6 146.05 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d6252361-d016-44f9-94fe-fba37c74624a")
-		(property "Reference" "C1023"
-			(at 102.108 144.526 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10uF"
-			(at 102.108 147.828 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 101.6 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707107920437248"
-			(at 101.6 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 101.6 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 101.6 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C19702"
-			(at 101.6 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL10A106KP8NNNC"
-			(at 101.6 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6f4e872c-141c-42f2-b8ba-b63eb87a708a")
-		)
-		(pin "1"
-			(uuid "5a56bc91-7a67-48b9-ac7a-56b9b95460c0")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
-					(reference "C1023")
 					(unit 1)
 				)
 			)
@@ -11888,6 +11791,102 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
 					(reference "#PWR0609")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 110.49 255.27 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f63198a4-8343-4513-8631-3106dce830c6")
+		(property "Reference" "C616"
+			(at 107.696 257.556 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "4.7uF"
+			(at 114.046 253.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 110.49 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707315714920448"
+			(at 110.49 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "X5R, 10V"
+			(at 113.792 254.762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 110.49 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part Number" "C23733"
+			(at 110.49 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturing Part Number" "CL05A475MP5NRNC"
+			(at 110.49 255.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a7d336a1-51d4-419a-aaca-fac2ff6e059f")
+		)
+		(pin "1"
+			(uuid "bf7a1fdb-f7fd-41c8-b8b8-4f26ffd85848")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/f6ec5a2c-a447-41c5-b01d-0cfa4d0577c8"
+					(reference "C616")
 					(unit 1)
 				)
 			)

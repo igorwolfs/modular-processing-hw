@@ -1613,6 +1613,17 @@
 		)
 		(uuid 93c945ca-8deb-4fb0-bf90-ca844489b9d2)
 	)
+	(text "SDRAM PHY Rise / Fall / Setup / Hold times:\n- 1 ns\n- t_setup-time: 1.5 ns\n- t_hold-time: 1 ns\nMCU Rise / Fall / Setup / Hold times\n- "
+		(exclude_from_sim no)
+		(at 93.472 121.412 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c01c340e-fcb9-41fc-b9bb-1e27fed78882")
+	)
 	(text "SDRAM DECOUPLING"
 		(exclude_from_sim no)
 		(at 68.58 134.112 0)
@@ -6200,7 +6211,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4075429c-45dc-4b4d-a426-f6483da921f9")
 		(property "Reference" "#PWR0301"
 			(at 154.94 125.73 0)
@@ -6212,7 +6222,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 124.46 0)
+			(at 157.48 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7910,7 +7920,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cc1b3d1d-a810-470b-b1ff-acb0661afadb")
 		(property "Reference" "#PWR0302"
 			(at 231.14 127 0)
@@ -7922,7 +7931,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 231.14 125.73 0)
+			(at 233.934 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)

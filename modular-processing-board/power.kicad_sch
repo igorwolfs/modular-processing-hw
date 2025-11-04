@@ -1585,10 +1585,10 @@
 		(uuid "0b9c74bf-55a0-46d1-8eb4-19dda612cd7d")
 	)
 	(junction
-		(at 46.99 40.64)
+		(at 46.99 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "38ba5281-5afb-4b12-8210-536b0efb1ddb")
+		(uuid "28972fd9-6de7-4e9c-bfb0-30a2968591d6")
 	)
 	(junction
 		(at 82.55 40.64)
@@ -1674,16 +1674,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 40.64) (xy 46.99 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "398bdec4-465a-4d8c-8ee7-b13e8974bbfc")
-	)
-	(wire
-		(pts
 			(xy 120.65 40.64) (xy 125.73 40.64)
 		)
 		(stroke
@@ -1691,16 +1681,6 @@
 			(type default)
 		)
 		(uuid "415efe36-5e3e-4b3d-8e5e-da0c64470248")
-	)
-	(wire
-		(pts
-			(xy 46.99 36.83) (xy 46.99 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45ecea32-ebb6-4ab9-8af6-c5e7c3b47d4c")
 	)
 	(wire
 		(pts
@@ -1774,16 +1754,6 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 40.64) (xy 62.23 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71edd8cd-a3b9-4f61-82df-51b6d573dbf4")
-	)
-	(wire
-		(pts
 			(xy 105.41 40.64) (xy 113.03 40.64)
 		)
 		(stroke
@@ -1854,16 +1824,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 43.18) (xy 62.23 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9b51255f-0bfe-49b2-9107-71c9fe98caaa")
-	)
-	(wire
-		(pts
 			(xy 91.44 48.26) (xy 91.44 49.53)
 		)
 		(stroke
@@ -1871,6 +1831,16 @@
 			(type default)
 		)
 		(uuid "a0f336dc-f988-4478-b297-0c33117f575f")
+	)
+	(wire
+		(pts
+			(xy 46.99 39.37) (xy 46.99 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9f07e79-ce9e-48f9-9282-3c5dba67798c")
 	)
 	(wire
 		(pts
@@ -1904,6 +1874,26 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 40.64) (xy 62.23 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d15e5759-f1d1-48eb-ae7c-4b9c40c53ac4")
+	)
+	(wire
+		(pts
+			(xy 46.99 43.18) (xy 62.23 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "edf74497-06f0-41b0-90b7-a41ae958600b")
+	)
+	(wire
+		(pts
 			(xy 100.33 40.64) (xy 105.41 40.64)
 		)
 		(stroke
@@ -1924,6 +1914,16 @@
 	)
 	(wire
 		(pts
+			(xy 43.18 43.18) (xy 46.99 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f08ba219-4ff5-4f5b-88a1-08e423623283")
+	)
+	(wire
+		(pts
 			(xy 118.11 40.64) (xy 120.65 40.64)
 		)
 		(stroke
@@ -1931,6 +1931,16 @@
 			(type default)
 		)
 		(uuid "fde3186f-96fd-46f6-9e20-acfad3c86478")
+	)
+	(label "LDO_OUT"
+		(at 52.07 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2c2f4e4d-3fcd-4199-aad5-8ce7d5598baf")
 	)
 	(label "LDO_OUT"
 		(at 115.57 76.2 180)
@@ -1942,27 +1952,6 @@
 		)
 		(uuid "85c037e1-ac26-45a7-b4f3-8e326c602997")
 	)
-	(label "LDO_OUT"
-		(at 52.07 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e196ec96-c536-4f9c-81da-8d4e34c9b93d")
-	)
-	(hierarchical_label "HRS_3V3"
-		(shape input)
-		(at 43.18 40.64 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3c206209-6195-4eff-8322-67b3edb637a3")
-	)
 	(hierarchical_label "USB_VBUS"
 		(shape input)
 		(at 62.23 76.2 180)
@@ -1973,6 +1962,17 @@
 			(justify right)
 		)
 		(uuid "782b162f-a53c-454e-a112-9cb38425478c")
+	)
+	(hierarchical_label "HRS_3V3"
+		(shape input)
+		(at 43.18 43.18 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e6f4994e-1191-4839-b019-5314b5a1b255")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -2196,7 +2196,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 46.99 36.83 0)
+		(at 46.99 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2204,7 +2204,7 @@
 		(dnp no)
 		(uuid "1f457e5f-d6c6-41db-a62c-52f379996a14")
 		(property "Reference" "#FLG0701"
-			(at 46.99 34.925 0)
+			(at 46.99 37.465 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2213,7 +2213,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 41.148 36.322 0)
+			(at 41.148 38.862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2221,7 +2221,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.99 36.83 0)
+			(at 46.99 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2230,7 +2230,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 46.99 36.83 0)
+			(at 46.99 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2239,7 +2239,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 46.99 36.83 0)
+			(at 46.99 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)

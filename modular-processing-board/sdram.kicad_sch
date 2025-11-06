@@ -1613,6 +1613,39 @@
 		)
 		(uuid 93c945ca-8deb-4fb0-bf90-ca844489b9d2)
 	)
+	(text "> DATA-BUS\nD0, D3:   36, 31, 49, 45\nD4, D7:   36, 35, 36, 35\nD8, D11:  27, 21, 21, 24\nD12, D16: 21, 16, 16, 20\n"
+		(exclude_from_sim no)
+		(at 308.61 86.868 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2aea7f43-682c-4295-88c0-472f2833a8a2")
+	)
+	(text "> Target length\n- CLK: 40 mm\n- DATA/ADDR bus lines: +- 10 mm\n- Route clk inside layer"
+		(exclude_from_sim no)
+		(at 353.822 87.376 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "42c6ce1e-e4d4-4857-ad83-2b6c4ef05b25")
+	)
+	(text "> CMD-BUS\nCLK: 		19\nCKE0m CS0: 	49, 65\nUDQM, LDQM:	38, 47\nBS0, BS1: 	26, 26\nRAS, CAS: 	46, 42\nWE: 		46"
+		(exclude_from_sim no)
+		(at 309.118 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "43342754-4188-497e-a6fc-207a6249ea34")
+	)
 	(text "SDRAM PHY Rise / Fall / Setup / Hold times:\n- 1 ns\n- t_setup-time: 1.5 ns\n- t_hold-time: 1 ns\nMCU Rise / Fall / Setup / Hold times\n- "
 		(exclude_from_sim no)
 		(at 93.472 121.412 0)
@@ -1647,6 +1680,17 @@
 			)
 		)
 		(uuid "d1c26153-92de-481a-bc8a-7c283157b1bb")
+	)
+	(text "> ADDR-bus:\nA0, A3:  49, 46, 48, 51\nA4, A7:  38, 37, 40, 38.7\nA8, A11: 36, 34, 50, 34\nA12: 	 15\n"
+		(exclude_from_sim no)
+		(at 309.372 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d38663f4-d883-4e1c-a49e-51ae91eda235")
 	)
 	(text "- Size: 4 M x 4 banks x 16-bits SDRAM (256 Mbits)\n- Voltage: 3V3"
 		(exclude_from_sim no)

@@ -1613,7 +1613,7 @@
 		)
 		(uuid 93c945ca-8deb-4fb0-bf90-ca844489b9d2)
 	)
-	(text "> DATA-BUS\nD0, D3:   36, 31, 49, 45\nD4, D7:   36, 35, 36, 35\nD8, D11:  27, 21, 21, 24\nD12, D16: 21, 16, 16, 20\n"
+	(text "> DATA-BUS\nD0, D3:   36, 31, 39, 42\nD4, D7:   36, 35, 36, 35\nD8, D11:  35, 29, 30, 29\nD12, D15: 31, 30, 32, 36"
 		(exclude_from_sim no)
 		(at 308.61 86.868 0)
 		(effects
@@ -1635,7 +1635,7 @@
 		)
 		(uuid "42c6ce1e-e4d4-4857-ad83-2b6c4ef05b25")
 	)
-	(text "> CMD-BUS\nCLK: 		19\nCKE0m CS0: 	49, 65\nUDQM, LDQM:	38, 47\nBS0, BS1: 	26, 26\nRAS, CAS: 	46, 42\nWE: 		46"
+	(text "> CMD-BUS\nCLK: 		39\nCKE0m CS0: 	49, 65\nCKE1m CS1: 	60, 68\nUDQM, LDQM:	38, 47\nBS0, BS1: 	26, 26\nRAS, CAS: 	46, 42\nWE: 		46"
 		(exclude_from_sim no)
 		(at 309.118 104.14 0)
 		(effects
@@ -1681,7 +1681,7 @@
 		)
 		(uuid "d1c26153-92de-481a-bc8a-7c283157b1bb")
 	)
-	(text "> ADDR-bus:\nA0, A3:  49, 46, 48, 51\nA4, A7:  38, 37, 40, 38.7\nA8, A11: 36, 34, 50, 34\nA12: 	 15\n"
+	(text "> ADDR-bus:\nA0, A3:  46, 46, 47, 48\nA4, A7:  38, 37, 40, 38.7\nA8, A11: 36, 34, 44, 34\nA12: 	 31\n"
 		(exclude_from_sim no)
 		(at 309.372 73.66 0)
 		(effects

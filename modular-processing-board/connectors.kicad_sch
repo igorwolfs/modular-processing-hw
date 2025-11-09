@@ -4737,7 +4737,7 @@
 		)
 		(uuid "51a7626b-7447-4be4-8116-3d079e661725")
 	)
-	(hierarchical_label "ADC_ALERT"
+	(hierarchical_label "AD_ALERT"
 		(shape output)
 		(at 154.94 58.42 180)
 		(effects
@@ -4836,7 +4836,7 @@
 		)
 		(uuid "dc5195e6-b5a0-4e7e-a368-802ccb4f3914")
 	)
-	(hierarchical_label "ADC_ALERT"
+	(hierarchical_label "AD_ALERT"
 		(shape output)
 		(at 62.23 123.19 180)
 		(effects

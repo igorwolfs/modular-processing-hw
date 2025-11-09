@@ -45,3 +45,20 @@ Seems like the best option
 # THS4521
 Images adc12, and adc3 were the resulting choices, some simulations can be found in the simulations/tina_ti folder that show the transfer function of these buffers with a dynamic load modelled after the stm32 parameters found in the datasheet.
 
+# Vref requirement
+- What should the vref be?
+	- buffered vdda/2?
+	- vdda?
+
+## Measurement range for the dfferential ADC
+### Table 184. ADC characteristics(1)(2) (continued)
+- Conversion voltage range: 
+	- 0..VREF+
+- Common mode input voltage:
+	- -Vref/2-10% .. Vref/2+10%
+
+### What is the point of vref+?
+
+It can be
+- Internal
+- Externally supplied

@@ -195,6 +195,7 @@
         0.0,
         0.124,
         0.1565,
+        0.25,
         0.5
       ],
       "tuning_pattern_settings": {
@@ -561,8 +562,8 @@
         "pattern": "**USB_D**"
       },
       {
-        "netclass": "Default",
-        "pattern": ""
+        "netclass": "z50_L16",
+        "pattern": "**PWM**"
       }
     ]
   },

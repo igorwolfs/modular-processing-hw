@@ -233,6 +233,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 68.58) (xy 167.64 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54d0e552-ce16-44cb-b363-5bb1d3aadcef")
+	)
+	(wire
+		(pts
 			(xy 90.17 88.9) (xy 93.98 88.9)
 		)
 		(stroke
@@ -1036,7 +1046,7 @@
 				(justify left)
 			)
 		)
-		(pin "ADC_ALERT" input
+		(pin "AD_ALERT" input
 			(at 137.16 114.3 270)
 			(uuid "6ea9ab41-86c7-47de-a062-31e4f6b19891")
 			(effects
@@ -1044,6 +1054,16 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(pin "MCU_VREF" bidirectional
+			(at 148.59 68.58 0)
+			(uuid "f0847fbb-82e9-4d95-900f-fa08970baf26")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 		(instances
@@ -1240,7 +1260,7 @@
 				(justify right)
 			)
 		)
-		(pin "ADC_ALERT" output
+		(pin "AD_ALERT" output
 			(at 137.16 140.97 90)
 			(uuid "715b5d3f-68df-4ca0-b3bc-1ebe0ed9e592")
 			(effects
@@ -1448,6 +1468,16 @@
 		(pin "MCU_ADC3_DIRECT_INN0" output
 			(at 167.64 58.42 180)
 			(uuid "38931139-436f-42a1-a274-d823b7faee4d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "MCU_VREF" bidirectional
+			(at 167.64 68.58 180)
+			(uuid "d1996f64-4581-4fbd-8dda-aa676f6530ce")
 			(effects
 				(font
 					(size 1.27 1.27)

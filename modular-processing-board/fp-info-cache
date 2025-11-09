@@ -1,4 +1,4 @@
-26195886562446798
+26246794716133830
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -104222,3 +104222,206 @@ Varistor VF
 0
 2
 2
+iw-analog
+QFN40P260X180X60-16N_Fv1.2
+Imported from Notecarrier-F v1.2 (rev 10)
+
+0
+16
+16
+iw-connector
+BWU.FL-IPEX1
+
+
+0
+3
+2
+iw-connector
+HRS_DF40C-80DP-0.4V(51)
+0.4mm Pitch, Plug, vertical (source: https://www.hirose.com/en/product/document?clcode=&productname=&series=DF40&documenttype=Catalog&lang=en&documentid=en_DF40_CAT)
+conn hirose board-to-board mezzanine stacking plug
+0
+84
+81
+iw-connector
+HRS_DF40C-80DS-0.4V(51)
+
+
+0
+80
+80
+iw-connector
+Hirose_BM28-BM28B0.6-30DP-2-0.35V_2x10_P0.35mm_PowerPin2_Vertical
+Hirose BM28 series connector, BM28B0.6-30DP/2-0.35V (https://www.hirose.com/en/product/document?clcode=&productname=&series=BM28&documenttype=Catalog&lang=en&documentid=D143865_en)
+connector Hirose  BM28 30pin header vertical
+0
+34
+32
+iw-connector
+Hirose_BM28-BM28B0.6-30DS-2-0.35V_2x10_P0.35mm_PowerPin2_Vertical
+Hirose BM28 series connector, BM28B0.6-30DS/2-0.35V (https://www.hirose.com/en/product/document?clcode=&productname=&series=BM28&documenttype=Catalog&lang=en&documentid=D143865_en)
+connector Hirose BM28 30pin receptacle vertical
+0
+34
+32
+iw-connector
+PMOD_Pinsocket
+Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 2x06 2.54mm double row
+0
+12
+12
+iw-connector
+RJ45-TH_HR911130A
+
+
+0
+16
+16
+iw-connector
+RJ45-TH_HR913550A
+
+
+0
+14
+14
+iw-connector
+WJ128V-5.0-3P
+
+
+0
+3
+3
+iw-fpga_mcu
+BGA256C80P16X16_1400X1400X170
+256-Ball caBGA
+Integrated Circuit
+0
+256
+256
+iw-fpga_mcu
+LCMXO2-4000HC-4TG144C
+LCMXO2-4000HC-4TG144C, TQFP-144(20x20) CPLD/FPGA ROHS
+TQFP-144(20x20) CPLD/FPGA ROHS, Embedded Processors & Controllers, CPLD/FPGA
+0
+144
+144
+iw-inductor
+L_Changjiang_FNR4018S
+Inductor, Changjiang, FNR4018S, 4.0x4.0x1.8mm, https://datasheet.lcsc.com/lcsc/1806131217_cjiang-Changjiang-Microelectronics-Tech-FNR5040S3R3NT_C167960.pdf
+Inductor wirewound power shielded
+0
+2
+2
+iw-inductor
+PA4343.223NLT
+
+
+0
+2
+2
+iw-inductor
+PSPMAA1050H-101M-ANP
+
+
+0
+2
+2
+iw-inductor
+PSPMAC1045H-101M-ANP
+
+
+0
+2
+2
+iw-inductor
+SMDRH104R
+
+
+0
+2
+2
+iw-memory
+BGA96C80P9X16_800X1400X120
+96-Ball FBGA – x16 (TW)_6
+Integrated Circuit
+0
+96
+96
+iw-memory
+TF01A
+TF-01A-6
+Connector
+0
+13
+10
+iw-memory
+W9825G6KH-6
+
+
+0
+54
+54
+iw-misc
+NetTie-2_SMD_Pad0.1240mm
+Net tie, 2 pin, 0.5mm square SMD pads
+net tie
+0
+2
+2
+iw-misc
+NetTie-2_SMD_Pad0.1565mm
+Net tie, 2 pin, 0.5mm square SMD pads
+net tie
+0
+2
+2
+iw-misc
+SW_TS-1088-AR02016
+
+
+0
+2
+2
+iw-misc
+TestPoint_Pad_D0.5mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+iw-misc
+TestPoint_Pad_D0.25mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+iw-misc
+TestPoint_Pad_D0.125mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+iw-phyctrl
+QFN32_5X5MC_MCH
+
+USB3300-EZK 
+0
+33
+33
+iw-power
+TMCS1108A3UQDR
+
+
+0
+8
+8
+iw-power
+TPS2121
+
+TPS2121RUXR 
+0
+12
+12

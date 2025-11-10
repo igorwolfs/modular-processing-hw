@@ -117,3 +117,39 @@ Path: Soldered-Inkplate-MOTION-STM-board-hardware-design/CAD
 ### Ferrites
 - None
 - Vdd, vddq connected
+
+# Implementation
+## Trace lengths:
+### Clock: 40 mm
+### Address bus
+- A0: 45 mm
+- A1: 46.5 mm
+- A2: 47 mm
+- A3: 48 mm
+- A4: 38 mm
+- A5: 37 mm
+- A6: 40 mm
+- A7: 39 mm
+- A8: 35 mm
+- A9: 34 mm
+- A10: 44 mm
+- A11: 33.55 mm
+- A12: 31 mm
+
+### Data bus
+- D0: 38.5 mm
+- D1: 31.3 mm
+- D2: 40 mm
+- D3: 41 mm
+- D4: 36.3 mm
+- D5: 35.7 mm
+- D6: 36.68 mm
+- D7: 37.3 mm
+- D8: 31 mm
+- D9: 30 mm
+- D10: 30 mm
+- D11: 31 mm
+- D12: 30 mm
+- D13: 30 mm
+- D14: 31.645 mm
+- D15: 35 mm

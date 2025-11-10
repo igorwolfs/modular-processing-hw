@@ -60,5 +60,6 @@ Images adc12, and adc3 were the resulting choices, some simulations can be found
 ### What is the point of vref+?
 
 It can be
-- Internal
-- Externally supplied
+####  Internal
+#### External
+- Then it should be supplied

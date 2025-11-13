@@ -134,7 +134,7 @@ Path: Soldered-Inkplate-MOTION-STM-board-hardware-design/CAD
 - A9: 34 mm
 - A10: 44 mm
 - A11: 33.55 mm
-- A12: 31 mm
+- A12: 34.165 mm
 
 ### Data bus
 - D0: 38.5 mm

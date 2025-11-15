@@ -6344,6 +6344,10 @@
 		(uuid "f85c0513-88b7-4a40-8847-02ae1dfb07bf")
 	)
 	(no_connect
+		(at 148.59 194.31)
+		(uuid "fc7e1b65-98ca-4af2-a8e3-fbdbec75428d")
+	)
+	(no_connect
 		(at 72.39 105.41)
 		(uuid "fd58028a-0268-4a99-b1aa-1b6e97a4f244")
 	)
@@ -9945,16 +9949,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 194.31) (xy 154.94 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c99c866f-fa53-4d4d-8603-8075c69bced3")
-	)
-	(wire
-		(pts
 			(xy 314.96 38.1) (xy 321.31 38.1)
 		)
 		(stroke
@@ -11978,17 +11972,6 @@
 			(justify left)
 		)
 		(uuid "9a516e6e-aa28-4ae9-9055-b1381335bf9a")
-	)
-	(hierarchical_label "USB_SENSE"
-		(shape input)
-		(at 154.94 194.31 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a1882559-fc5f-4a86-a4fc-fac6d489a82b")
 	)
 	(hierarchical_label "SDRAM{SDRAM_D}"
 		(shape input)

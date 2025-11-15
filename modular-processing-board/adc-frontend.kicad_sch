@@ -4543,7 +4543,7 @@
 		)
 		(uuid "70d53d72-0b06-40d3-b1f2-de73ca840f63")
 	)
-	(label "ADC_VOCM_REF"
+	(label "VOCM_REF"
 		(at 113.03 39.37 180)
 		(effects
 			(font
@@ -4623,7 +4623,7 @@
 		)
 		(uuid "d6041284-7af9-40e5-a214-f47cee0783b5")
 	)
-	(label "ADC_VOCM_BUFF"
+	(label "VOCM_BUFF"
 		(at 219.71 59.69 0)
 		(effects
 			(font
@@ -7778,7 +7778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "iw-misc:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.0x1.0mm"
 			(at 120.65 39.37 0)
 			(effects
 				(font

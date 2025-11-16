@@ -515,7 +515,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)"
       },
       {
-        "clearance": 0.3,
+        "clearance": 0.15,
         "name": "z50_L16",
         "pcb_color": "rgb(0, 194, 194)",
         "priority": 2,
@@ -552,7 +552,7 @@
         "pattern": "**SDRAM**"
       },
       {
-        "netclass": "z50_L3",
+        "netclass": "z50_L16",
         "pattern": "**PSSI**"
       },
       {

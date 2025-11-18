@@ -13182,24 +13182,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 67.31 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 67.31 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 67.31 233.68 0)
 			(effects
@@ -16438,24 +16420,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 59.69 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 59.69 233.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 59.69 233.68 0)
 			(effects
@@ -16981,9 +16945,9 @@
 		(at 342.9 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a880d52c-f0ed-4179-adef-9d0aa9eccf66")
 		(property "Reference" "J202"

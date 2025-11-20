@@ -4365,6 +4365,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C4216"
+			(at 243.84 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF3302T5E"
+			(at 243.84 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "36a71da0-e873-4eb9-8abc-2574c286923c")
 		)
@@ -4605,6 +4623,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0603WAF3302T5E"
+			(at 256.54 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C4216"
+			(at 256.54 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF3302T5E"
 			(at 256.54 110.49 90)
 			(effects
 				(font
@@ -5003,6 +5039,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C25804"
+			(at 119.38 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 119.38 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fed5065c-a85b-4c3c-83ff-b61354754c5b")
 		)
@@ -5227,6 +5281,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C25804"
+			(at 97.79 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 97.79 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6d688b73-0e3a-400e-82c7-9c07ea65083e")
 		)
@@ -5313,6 +5385,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "TYPE-C-31-M-12 "
+			(at 252.73 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C165948"
+			(at 252.73 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TYPE-C-31-M-12 "
 			(at 252.73 76.2 0)
 			(effects
 				(font
@@ -5652,6 +5742,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C1530"
+			(at 226.06 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402B221K500NT"
+			(at 226.06 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1114f196-dd37-42b4-8ec4-4b9417cd9890")
 		)
@@ -5901,6 +6009,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C1530"
+			(at 213.36 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402B221K500NT"
+			(at 213.36 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a1741597-eba1-4976-a6e2-bb2282d4abb4")
 		)
@@ -5989,6 +6115,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0603WAF5101T5E"
+			(at 231.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C23186"
+			(at 231.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF5101T5E"
 			(at 231.14 93.98 0)
 			(effects
 				(font
@@ -6152,6 +6296,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0603WAF5101T5E"
+			(at 219.71 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C23186"
+			(at 219.71 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF5101T5E"
 			(at 219.71 93.98 0)
 			(effects
 				(font
@@ -6381,6 +6543,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "4D03WGJ0103T5E"
+			(at 107.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C29718"
+			(at 107.95 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "4D03WGJ0103T5E"
 			(at 107.95 80.01 0)
 			(effects
 				(font

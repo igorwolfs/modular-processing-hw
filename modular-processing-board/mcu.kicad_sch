@@ -6135,12 +6135,6 @@
 		(uuid "39901455-afc1-48c1-b10d-db5de9245450")
 	)
 	(junction
-		(at 361.95 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "44865f4e-1606-4b39-bca6-ee41a9d90f9c")
-	)
-	(junction
 		(at 288.29 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6163,6 +6157,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5742c599-d965-45c3-b53a-2e62b9133090")
+	)
+	(junction
+		(at 364.49 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "654328ff-1d3e-42e3-bf7f-69d3d343c1d7")
 	)
 	(junction
 		(at 288.29 73.66)
@@ -6327,7 +6327,7 @@
 		(uuid "d230ec09-a7a8-4ad8-9a9b-c59c9343d7a4")
 	)
 	(junction
-		(at 363.22 143.51)
+		(at 365.76 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d398fb37-0cc5-4681-8316-df9f6e2494b1")
@@ -7518,7 +7518,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 125.73) (xy 318.77 129.54)
+			(xy 318.77 118.872) (xy 318.77 122.682)
 		)
 		(stroke
 			(width 0)
@@ -8078,7 +8078,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 143.51) (xy 363.22 143.51)
+			(xy 364.49 134.62) (xy 365.76 134.62)
 		)
 		(stroke
 			(width 0)
@@ -8178,7 +8178,7 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 143.51) (xy 386.08 143.51)
+			(xy 386.08 134.62) (xy 388.62 134.62)
 		)
 		(stroke
 			(width 0)
@@ -8328,7 +8328,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 134.62) (xy 330.2 137.16)
+			(xy 330.2 127.762) (xy 330.2 130.302)
 		)
 		(stroke
 			(width 0)
@@ -9118,7 +9118,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 142.24) (xy 330.2 144.78)
+			(xy 330.2 135.382) (xy 330.2 137.922)
 		)
 		(stroke
 			(width 0)
@@ -9478,7 +9478,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 142.24) (xy 318.77 144.78)
+			(xy 318.77 135.382) (xy 318.77 137.922)
 		)
 		(stroke
 			(width 0)
@@ -9588,7 +9588,7 @@
 	)
 	(wire
 		(pts
-			(xy 321.31 125.73) (xy 330.2 125.73)
+			(xy 321.31 118.872) (xy 330.2 118.872)
 		)
 		(stroke
 			(width 0)
@@ -9658,7 +9658,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 129.54) (xy 361.95 133.35)
+			(xy 364.49 123.19) (xy 364.49 124.46)
 		)
 		(stroke
 			(width 0)
@@ -9828,7 +9828,7 @@
 	)
 	(wire
 		(pts
-			(xy 309.88 125.73) (xy 318.77 125.73)
+			(xy 309.88 118.872) (xy 318.77 118.872)
 		)
 		(stroke
 			(width 0)
@@ -9888,7 +9888,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 143.51) (xy 361.95 143.51)
+			(xy 353.06 134.62) (xy 364.49 134.62)
 		)
 		(stroke
 			(width 0)
@@ -9898,7 +9898,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 143.51) (xy 377.19 143.51)
+			(xy 381 134.62) (xy 379.73 134.62)
 		)
 		(stroke
 			(width 0)
@@ -9968,7 +9968,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 151.13) (xy 363.22 149.86)
+			(xy 365.76 142.24) (xy 365.76 140.97)
 		)
 		(stroke
 			(width 0)
@@ -10078,7 +10078,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 144.78) (xy 363.22 143.51)
+			(xy 365.76 135.89) (xy 365.76 134.62)
 		)
 		(stroke
 			(width 0)
@@ -10138,7 +10138,7 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 143.51) (xy 367.03 143.51)
+			(xy 365.76 134.62) (xy 369.57 134.62)
 		)
 		(stroke
 			(width 0)
@@ -10588,7 +10588,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 138.43) (xy 361.95 143.51)
+			(xy 364.49 129.54) (xy 364.49 134.62)
 		)
 		(stroke
 			(width 0)
@@ -10768,7 +10768,7 @@
 	)
 	(wire
 		(pts
-			(xy 330.2 125.73) (xy 330.2 129.54)
+			(xy 330.2 118.872) (xy 330.2 122.682)
 		)
 		(stroke
 			(width 0)
@@ -10868,7 +10868,7 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 134.62) (xy 318.77 137.16)
+			(xy 318.77 127.762) (xy 318.77 130.302)
 		)
 		(stroke
 			(width 0)
@@ -11467,7 +11467,7 @@
 		(uuid "7b46b64b-679e-4f77-a51f-904f4fc8f63c")
 	)
 	(label "BUTTON_1"
-		(at 350.52 143.51 0)
+		(at 353.06 134.62 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11487,7 +11487,7 @@
 		(uuid "7c100f56-6a43-4883-9a02-33d87f205f94")
 	)
 	(label "LED_1"
-		(at 309.88 125.73 0)
+		(at 309.88 118.872 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11927,7 +11927,7 @@
 		(uuid "fb4a2ec5-c461-4c56-ab3b-243430a58c51")
 	)
 	(label "LED_2"
-		(at 321.31 125.73 0)
+		(at 321.31 118.872 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12378,6 +12378,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C17168"
+			(at 271.78 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF0000TCE"
+			(at 271.78 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "64248fa6-3f49-4de6-8a8d-64e57fafa7f3")
 		)
@@ -12395,7 +12413,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 318.77 132.08 90)
+		(at 318.77 125.222 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12403,7 +12421,7 @@
 		(dnp no)
 		(uuid "03999016-50fe-4efe-8e58-59fca6eac0a8")
 		(property "Reference" "D201"
-			(at 319.786 136.144 0)
+			(at 319.786 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12411,7 +12429,7 @@
 			)
 		)
 		(property "Value" "RED"
-			(at 322.58 132.842 90)
+			(at 322.58 125.984 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12419,7 +12437,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 318.77 132.08 90)
+			(at 318.77 125.222 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12428,7 +12446,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312"
-			(at 318.77 132.08 90)
+			(at 318.77 125.222 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12437,7 +12455,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
-			(at 318.77 132.08 0)
+			(at 318.77 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12446,7 +12464,7 @@
 			)
 		)
 		(property "Sim.Pin" "1=K 2=A"
-			(at 318.77 132.08 0)
+			(at 318.77 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12455,7 +12473,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C2286"
-			(at 318.77 132.08 0)
+			(at 318.77 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12464,7 +12482,25 @@
 			)
 		)
 		(property "Manufacturing Part Number" "KT-0603R "
-			(at 318.77 132.08 0)
+			(at 318.77 125.222 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C2286"
+			(at 318.77 125.222 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KT-0603R "
+			(at 318.77 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12559,6 +12595,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0603WAF470JT5E"
+			(at 353.06 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C23182"
+			(at 353.06 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF470JT5E"
 			(at 353.06 82.55 90)
 			(effects
 				(font
@@ -12847,7 +12901,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 318.77 144.78 0)
+		(at 318.77 137.922 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12856,7 +12910,7 @@
 		(fields_autoplaced yes)
 		(uuid "1233871d-8a54-4d41-9384-4c46f3b8cfa9")
 		(property "Reference" "#PWR0224"
-			(at 318.77 151.13 0)
+			(at 318.77 144.272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12865,7 +12919,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 318.77 149.86 0)
+			(at 318.77 143.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12873,7 +12927,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 318.77 144.78 0)
+			(at 318.77 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12882,7 +12936,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 318.77 144.78 0)
+			(at 318.77 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12891,7 +12945,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 318.77 144.78 0)
+			(at 318.77 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12982,6 +13036,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0805W8F0000T5E"
+			(at 67.31 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C17477"
+			(at 67.31 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F0000T5E"
 			(at 67.31 85.09 90)
 			(effects
 				(font
@@ -13426,6 +13498,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C17477"
+			(at 334.01 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F0000T5E"
+			(at 334.01 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "22732d4c-9e76-417b-8a99-1aded736a84b")
 		)
@@ -13443,7 +13533,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 330.2 132.08 90)
+		(at 330.2 125.222 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13451,7 +13541,7 @@
 		(dnp no)
 		(uuid "3a9c7c22-40de-4510-992f-0bcd8b6a2d5e")
 		(property "Reference" "D401"
-			(at 331.216 136.144 0)
+			(at 331.216 129.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13459,7 +13549,7 @@
 			)
 		)
 		(property "Value" "RED"
-			(at 334.01 132.842 90)
+			(at 334.01 125.984 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13467,7 +13557,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 330.2 132.08 90)
+			(at 330.2 125.222 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13476,7 +13566,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8550723991833485312"
-			(at 330.2 132.08 90)
+			(at 330.2 125.222 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13485,7 +13575,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
-			(at 330.2 132.08 0)
+			(at 330.2 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13494,7 +13584,7 @@
 			)
 		)
 		(property "Sim.Pin" "1=K 2=A"
-			(at 330.2 132.08 0)
+			(at 330.2 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13503,7 +13593,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C2286"
-			(at 330.2 132.08 0)
+			(at 330.2 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13512,7 +13602,25 @@
 			)
 		)
 		(property "Manufacturing Part Number" "KT-0603R "
-			(at 330.2 132.08 0)
+			(at 330.2 125.222 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C2286"
+			(at 330.2 125.222 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KT-0603R "
+			(at 330.2 125.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13733,7 +13841,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 372.11 143.51 0)
+		(at 374.65 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13742,7 +13850,7 @@
 		(fields_autoplaced yes)
 		(uuid "5065eb13-a53d-4347-81be-9630dce9cd79")
 		(property "Reference" "SW602"
-			(at 370.8399 139.7 90)
+			(at 373.3799 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13751,7 +13859,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 373.3799 139.7 90)
+			(at 375.9199 130.81 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13760,7 +13868,7 @@
 			)
 		)
 		(property "Footprint" "iw-misc:SW_TS-1088-AR02016"
-			(at 372.11 138.43 0)
+			(at 374.65 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13769,7 +13877,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588886944068096000"
-			(at 372.11 138.43 0)
+			(at 374.65 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13778,7 +13886,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 372.11 143.51 0)
+			(at 374.65 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13787,7 +13895,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C720477"
-			(at 372.11 143.51 90)
+			(at 374.65 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13796,7 +13904,25 @@
 			)
 		)
 		(property "Manufacturing Part Number" "TS-1088-AR02016"
-			(at 372.11 143.51 90)
+			(at 374.65 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C720477"
+			(at 374.65 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TS-1088-AR02016 "
+			(at 374.65 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13949,6 +14075,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0402WGF4700TCE"
+			(at 382.27 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C25117"
+			(at 382.27 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF4700TCE"
 			(at 382.27 93.98 0)
 			(effects
 				(font
@@ -14489,7 +14633,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 361.95 129.54 0)
+		(at 364.49 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14498,7 +14642,7 @@
 		(fields_autoplaced yes)
 		(uuid "5ddb8f5a-b38b-4272-a08c-0bb4f732f337")
 		(property "Reference" "#PWR0203"
-			(at 361.95 133.35 0)
+			(at 364.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14507,7 +14651,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 361.95 124.46 0)
+			(at 364.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14515,7 +14659,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 361.95 129.54 0)
+			(at 364.49 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14524,7 +14668,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 361.95 129.54 0)
+			(at 364.49 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14533,7 +14677,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 361.95 129.54 0)
+			(at 364.49 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14946,6 +15090,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C28323"
+			(at 373.38 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 373.38 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "280fa82a-2aaa-47cb-9c71-7c369f2da3a8")
 		)
@@ -15077,7 +15239,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 318.77 139.7 180)
+		(at 318.77 132.842 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15086,7 +15248,7 @@
 		(fields_autoplaced yes)
 		(uuid "6d2307a9-67a6-4e49-b0f9-fce3ee646008")
 		(property "Reference" "R206"
-			(at 321.31 138.4299 0)
+			(at 321.31 131.5719 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -15095,7 +15257,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 321.31 140.9699 0)
+			(at 321.31 134.1119 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15104,7 +15266,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 318.77 139.7 0)
+			(at 318.77 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15113,7 +15275,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705924167974912"
-			(at 318.77 139.7 0)
+			(at 318.77 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15122,7 +15284,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 318.77 139.7 0)
+			(at 318.77 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15131,7 +15293,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C11702"
-			(at 318.77 139.7 0)
+			(at 318.77 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15140,7 +15302,25 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0402WGF1001TCE"
-			(at 318.77 139.7 0)
+			(at 318.77 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C11702"
+			(at 318.77 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 318.77 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15331,6 +15511,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CL21B105KBFNNNE"
+			(at 394.97 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C28323"
+			(at 394.97 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
 			(at 394.97 34.29 0)
 			(effects
 				(font
@@ -15613,6 +15811,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C25804"
+			(at 382.27 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF1002T5E"
+			(at 382.27 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "28758a7c-41b3-488e-bd5f-a68c9b6c9dfe")
 		)
@@ -15823,6 +16039,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C28323"
+			(at 257.81 41.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
+			(at 257.81 41.656 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "556c48a8-c785-4b3e-8e4d-a5d56dc00b05")
 		)
@@ -15918,6 +16152,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C9006"
+			(at 280.67 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "X322525MOB4SI"
+			(at 280.67 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "80731bb0-e4ea-40c9-8eb5-ca8f8f819811")
 		)
@@ -15941,7 +16193,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 363.22 147.32 0)
+		(at 365.76 138.43 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15950,7 +16202,7 @@
 		(dnp no)
 		(uuid "94cac263-9123-4cb2-afa3-105eae5919cd")
 		(property "Reference" "C217"
-			(at 369.824 145.542 0)
+			(at 372.364 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15959,7 +16211,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 370.84 148.59 0)
+			(at 373.38 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15968,7 +16220,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 363.22 147.32 0)
+			(at 365.76 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15977,7 +16229,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603345729432014848"
-			(at 363.22 147.32 0)
+			(at 365.76 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15986,7 +16238,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 363.22 147.32 0)
+			(at 365.76 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15995,7 +16247,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C22435929"
-			(at 363.22 147.32 0)
+			(at 365.76 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16004,7 +16256,7 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 363.22 147.32 0)
+			(at 365.76 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16013,7 +16265,7 @@
 			)
 		)
 		(property "LPN" "C307331"
-			(at 363.22 147.32 0)
+			(at 365.76 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16022,7 +16274,7 @@
 			)
 		)
 		(property "MPN" "CL05B104KB54PNC"
-			(at 363.22 147.32 0)
+			(at 365.76 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16569,7 +16821,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 381 143.51 90)
+		(at 383.54 134.62 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16578,7 +16830,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b433a1a-d305-4013-90ea-608eec36869e")
 		(property "Reference" "R210"
-			(at 379.7299 140.97 0)
+			(at 382.2699 132.08 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -16587,7 +16839,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 382.2699 140.97 0)
+			(at 384.8099 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16596,7 +16848,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 381 143.51 0)
+			(at 383.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16605,7 +16857,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705913233424384"
-			(at 381 143.51 0)
+			(at 383.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16614,7 +16866,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 381 143.51 0)
+			(at 383.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16623,7 +16875,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C25117"
-			(at 381 143.51 0)
+			(at 383.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16632,7 +16884,25 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0402WGF4700TCE"
-			(at 381 143.51 0)
+			(at 383.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C25117"
+			(at 383.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF4700TCE"
+			(at 383.54 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16734,6 +17004,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C17477"
+			(at 354.33 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F0000T5E"
+			(at 354.33 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2aa9d8a1-d2e8-48a9-b2cf-8e2b2e3fbd6c")
 		)
@@ -16822,6 +17110,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CL21B105KBFNNNE"
+			(at 358.14 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C28323"
+			(at 358.14 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21B105KBFNNNE"
 			(at 358.14 34.29 0)
 			(effects
 				(font
@@ -17183,6 +17489,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C17477"
+			(at 334.01 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0805W8F0000T5E"
+			(at 334.01 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c3f14666-6313-40bb-99ab-8f28a44c6016")
 		)
@@ -17200,7 +17524,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 330.2 139.7 180)
+		(at 330.2 132.842 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17209,7 +17533,7 @@
 		(fields_autoplaced yes)
 		(uuid "adf4de95-ca5b-4d71-90bb-2d635b71382d")
 		(property "Reference" "R209"
-			(at 332.74 138.4299 0)
+			(at 332.74 131.5719 0)
 			(effects
 				(font
 					(size 1.016 1.016)
@@ -17218,7 +17542,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 332.74 140.9699 0)
+			(at 332.74 134.1119 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17227,7 +17551,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 330.2 139.7 0)
+			(at 330.2 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17236,7 +17560,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579705924167974912"
-			(at 330.2 139.7 0)
+			(at 330.2 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17245,7 +17569,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 330.2 139.7 0)
+			(at 330.2 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17254,7 +17578,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C11702"
-			(at 330.2 139.7 0)
+			(at 330.2 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17263,7 +17587,25 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0402WGF1001TCE"
-			(at 330.2 139.7 0)
+			(at 330.2 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C11702"
+			(at 330.2 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF1001TCE"
+			(at 330.2 132.842 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17288,7 +17630,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 361.95 135.89 0)
+		(at 364.49 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17296,7 +17638,7 @@
 		(dnp no)
 		(uuid "b56168e6-2a62-44e1-8fd5-5f54b521a61c")
 		(property "Reference" "R201"
-			(at 355.6 133.096 0)
+			(at 358.14 124.206 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17305,7 +17647,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 356.362 135.89 0)
+			(at 358.902 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17314,7 +17656,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 361.95 135.89 0)
+			(at 364.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17323,7 +17665,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 361.95 135.89 0)
+			(at 364.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17332,7 +17674,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 361.95 135.89 0)
+			(at 364.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17341,7 +17683,7 @@
 			)
 		)
 		(property "Availability" ""
-			(at 361.95 135.89 0)
+			(at 364.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17350,7 +17692,7 @@
 			)
 		)
 		(property "LCSC Part Number" "C25900"
-			(at 361.95 135.89 0)
+			(at 364.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17359,7 +17701,25 @@
 			)
 		)
 		(property "Manufacturing Part Number" "0402WGF4701TCE"
-			(at 361.95 135.89 0)
+			(at 364.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C25900"
+			(at 364.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402WGF4701TCE"
+			(at 364.49 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17938,6 +18298,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C23182"
+			(at 353.06 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF470JT5E"
+			(at 353.06 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5e961a35-7f34-48e8-9457-f7ec833aebae")
 		)
@@ -18246,6 +18624,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C720477"
+			(at 382.27 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TS-1088-AR02016 "
+			(at 382.27 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a29c4456-1358-46c9-b264-8b886de39eed")
 		)
@@ -18491,7 +18887,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 386.08 143.51 0)
+		(at 388.62 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18499,7 +18895,7 @@
 		(dnp no)
 		(uuid "d29946b7-f395-4808-8f6d-f23a50626bee")
 		(property "Reference" "#PWR0226"
-			(at 386.08 149.86 0)
+			(at 388.62 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18508,7 +18904,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 389.128 144.018 0)
+			(at 391.668 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18516,7 +18912,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 386.08 143.51 0)
+			(at 388.62 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18525,7 +18921,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 386.08 143.51 0)
+			(at 388.62 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18534,7 +18930,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 386.08 143.51 0)
+			(at 388.62 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18735,7 +19131,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 330.2 144.78 0)
+		(at 330.2 137.922 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18744,7 +19140,7 @@
 		(fields_autoplaced yes)
 		(uuid "dde867b0-ebf1-4e68-a1ef-b2a4d186d07a")
 		(property "Reference" "#PWR0225"
-			(at 330.2 151.13 0)
+			(at 330.2 144.272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18753,7 +19149,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 330.2 149.86 0)
+			(at 330.2 143.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18761,7 +19157,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 330.2 144.78 0)
+			(at 330.2 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18770,7 +19166,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 330.2 144.78 0)
+			(at 330.2 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18779,7 +19175,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 330.2 144.78 0)
+			(at 330.2 137.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18880,6 +19276,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C23733"
+			(at 340.36 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05A475MP5NRNC"
+			(at 340.36 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b0a362e6-342b-4dd8-8101-209eb5e65b11")
 		)
@@ -18962,7 +19376,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 363.22 151.13 0)
+		(at 365.76 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18970,7 +19384,7 @@
 		(dnp no)
 		(uuid "e54eefc2-ab54-4c4e-a3a3-eb25ccc7bda6")
 		(property "Reference" "#PWR0227"
-			(at 363.22 157.48 0)
+			(at 365.76 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18979,7 +19393,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 366.268 151.638 0)
+			(at 368.808 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18987,7 +19401,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 363.22 151.13 0)
+			(at 365.76 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18996,7 +19410,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 363.22 151.13 0)
+			(at 365.76 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19005,7 +19419,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 363.22 151.13 0)
+			(at 365.76 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)

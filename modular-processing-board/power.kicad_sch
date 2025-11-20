@@ -3740,6 +3740,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C883139"
+			(at 86.36 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BSMD1812-050-15V "
+			(at 86.36 40.64 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcf97e9f-7b39-4fdd-9e91-ad3723b25757")
 		)
@@ -3840,7 +3858,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_RED"
+		(property "Value" "RED"
 			(at 101.346 43.688 90)
 			(effects
 				(font
@@ -3896,6 +3914,24 @@
 		)
 		(property "Manufacturing Part Number" "KT-0603R "
 			(at 100.33 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C2286"
+			(at 100.33 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KT-0603R "
+			(at 100.33 45.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)

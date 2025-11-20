@@ -7073,6 +7073,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C59461"
+			(at 19.05 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MQ8NRNC"
+			(at 19.05 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d5155d7e-0d5a-4452-9a61-4aed16845dcb")
 		)
@@ -7830,6 +7848,24 @@
 			)
 		)
 		(property "Manufacturing Part Number" "CL10A226MQ8NRNC"
+			(at 19.05 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C59461"
+			(at 19.05 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A226MQ8NRNC"
 			(at 19.05 153.67 0)
 			(effects
 				(font

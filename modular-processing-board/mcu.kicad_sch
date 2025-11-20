@@ -12360,24 +12360,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17168"
-			(at 271.78 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402WGF0000TCE"
-			(at 271.78 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C17168"
 			(at 271.78 78.74 90)
 			(effects
@@ -12464,24 +12446,6 @@
 			)
 		)
 		(property "Sim.Pin" "1=K 2=A"
-			(at 318.77 125.222 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2286"
-			(at 318.77 125.222 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "KT-0603R "
 			(at 318.77 125.222 0)
 			(effects
 				(font
@@ -12577,24 +12541,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 353.06 82.55 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C23182"
-			(at 353.06 82.55 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF470JT5E"
 			(at 353.06 82.55 90)
 			(effects
 				(font
@@ -13026,24 +12972,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17477"
-			(at 67.31 85.09 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0805W8F0000T5E"
-			(at 67.31 85.09 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C17477"
 			(at 67.31 85.09 90)
 			(effects
@@ -13132,24 +13060,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 321.31 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 321.31 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 321.31 34.29 0)
 			(effects
 				(font
@@ -13480,24 +13390,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17477"
-			(at 334.01 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0805W8F0000T5E"
-			(at 334.01 77.47 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C17477"
 			(at 334.01 77.47 90)
 			(effects
@@ -13584,24 +13476,6 @@
 			)
 		)
 		(property "Sim.Pin" "1=K 2=A"
-			(at 330.2 125.222 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2286"
-			(at 330.2 125.222 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "KT-0603R "
 			(at 330.2 125.222 0)
 			(effects
 				(font
@@ -13894,24 +13768,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C720477"
-			(at 374.65 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "TS-1088-AR02016"
-			(at 374.65 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C720477"
 			(at 374.65 134.62 90)
 			(effects
@@ -14057,24 +13913,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 382.27 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25117"
-			(at 382.27 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402WGF4700TCE"
 			(at 382.27 93.98 0)
 			(effects
 				(font
@@ -14958,24 +14796,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 283.21 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 283.21 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 283.21 34.29 0)
 			(effects
@@ -15064,24 +14884,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 373.38 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28323"
-			(at 373.38 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL21B105KBFNNNE"
 			(at 373.38 34.29 0)
 			(effects
 				(font
@@ -15186,24 +14988,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 351.79 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 351.79 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 351.79 34.29 0)
 			(effects
@@ -15284,24 +15068,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 318.77 132.842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C11702"
-			(at 318.77 132.842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402WGF1001TCE"
 			(at 318.77 132.842 0)
 			(effects
 				(font
@@ -15405,24 +15171,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C1569"
-			(at 284.48 68.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402CG4R7C500NT"
-			(at 284.48 68.58 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "0958c3b6-9855-4802-be5e-1e6898cdc708")
 		)
@@ -15493,24 +15241,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 394.97 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C28323"
-			(at 394.97 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL21B105KBFNNNE"
 			(at 394.97 34.29 0)
 			(effects
 				(font
@@ -15607,24 +15337,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 327.66 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 327.66 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 327.66 34.29 0)
 			(effects
 				(font
@@ -15793,24 +15505,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C25804"
-			(at 382.27 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 382.27 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C25804"
 			(at 382.27 74.93 0)
 			(effects
@@ -15899,24 +15593,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 295.91 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 295.91 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 295.91 34.29 0)
 			(effects
 				(font
@@ -16021,24 +15697,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C28323"
-			(at 257.81 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL21B105KBFNNNE"
-			(at 257.81 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C28323"
 			(at 257.81 41.656 0)
 			(effects
@@ -16134,24 +15792,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C9006"
-			(at 280.67 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "X322525MOB4SI"
-			(at 280.67 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C9006"
 			(at 280.67 73.66 90)
 			(effects
@@ -16238,24 +15878,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 365.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 365.76 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 365.76 138.43 0)
 			(effects
 				(font
@@ -16558,24 +16180,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 289.56 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 289.56 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 289.56 34.29 0)
 			(effects
@@ -16768,24 +16372,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 367.03 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 367.03 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 367.03 34.29 0)
 			(effects
@@ -16866,24 +16452,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 383.54 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C25117"
-			(at 383.54 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402WGF4700TCE"
 			(at 383.54 134.62 0)
 			(effects
 				(font
@@ -16978,24 +16546,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 354.33 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C17477"
-			(at 354.33 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0805W8F0000T5E"
 			(at 354.33 74.93 90)
 			(effects
 				(font
@@ -17100,24 +16650,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C28323"
-			(at 358.14 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL21B105KBFNNNE"
-			(at 358.14 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C28323"
 			(at 358.14 34.29 0)
 			(effects
@@ -17205,24 +16737,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 284.48 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C1569"
-			(at 284.48 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402CG4R7C500NT"
 			(at 284.48 78.74 90)
 			(effects
 				(font
@@ -17471,24 +16985,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C17477"
-			(at 334.01 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0805W8F0000T5E"
-			(at 334.01 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C17477"
 			(at 334.01 74.93 90)
 			(effects
@@ -17569,24 +17065,6 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 330.2 132.842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C11702"
-			(at 330.2 132.842 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402WGF1001TCE"
 			(at 330.2 132.842 0)
 			(effects
 				(font
@@ -17691,24 +17169,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C25900"
-			(at 364.49 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402WGF4701TCE"
-			(at 364.49 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C25900"
 			(at 364.49 127 0)
 			(effects
@@ -17797,24 +17257,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 302.26 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 302.26 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 302.26 34.29 0)
 			(effects
 				(font
@@ -17987,24 +17429,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 334.01 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 334.01 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 334.01 34.29 0)
 			(effects
@@ -18093,24 +17517,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 314.96 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 314.96 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 314.96 34.29 0)
 			(effects
 				(font
@@ -18280,24 +17686,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C23182"
-			(at 353.06 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF470JT5E"
-			(at 353.06 80.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C23182"
 			(at 353.06 80.01 90)
 			(effects
@@ -18394,24 +17782,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 308.61 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 308.61 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 308.61 34.29 0)
 			(effects
@@ -18492,24 +17862,6 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 377.19 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 377.19 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 377.19 92.71 0)
 			(effects
 				(font
@@ -18599,24 +17951,6 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 382.27 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C720477"
-			(at 382.27 85.09 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "TS-1088-AR02016"
-			(at 382.27 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18720,24 +18054,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 276.86 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 276.86 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 276.86 34.29 0)
 			(effects
@@ -18826,24 +18142,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 251.46 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 251.46 41.656 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 251.46 41.656 0)
 			(effects
 				(font
@@ -19005,24 +18303,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 388.62 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 388.62 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 388.62 34.29 0)
 			(effects
 				(font
@@ -19250,24 +18530,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 340.36 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C23733"
-			(at 340.36 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL05A475MP5NRNC"
 			(at 340.36 34.29 0)
 			(effects
 				(font
@@ -19691,24 +18953,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 270.51 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 270.51 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 270.51 34.29 0)
 			(effects
 				(font

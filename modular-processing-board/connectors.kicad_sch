@@ -5049,17 +5049,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Hirose Electric"
-			(at 95.25 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
 		(property "License" "Apache-2.0"
 			(at 95.25 66.04 0)
 			(effects

@@ -4347,24 +4347,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C4216"
-			(at 243.84 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF3302T5E"
-			(at 243.84 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C4216"
 			(at 243.84 110.49 90)
 			(effects
@@ -4605,24 +4587,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 256.54 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C4216"
-			(at 256.54 110.49 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF3302T5E"
 			(at 256.54 110.49 90)
 			(effects
 				(font
@@ -5021,24 +4985,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C25804"
-			(at 119.38 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 119.38 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C25804"
 			(at 119.38 86.36 90)
 			(effects
@@ -5263,24 +5209,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C25804"
-			(at 97.79 83.82 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF1002T5E"
-			(at 97.79 83.82 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C25804"
 			(at 97.79 83.82 90)
 			(effects
@@ -5367,24 +5295,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 252.73 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C165948"
-			(at 252.73 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "TYPE-C-31-M-12 "
 			(at 252.73 76.2 0)
 			(effects
 				(font
@@ -5724,24 +5634,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C1530"
-			(at 226.06 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402B221K500NT"
-			(at 226.06 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C1530"
 			(at 226.06 93.98 0)
 			(effects
@@ -5991,24 +5883,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C1530"
-			(at 213.36 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0402B221K500NT"
-			(at 213.36 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C1530"
 			(at 213.36 93.98 0)
 			(effects
@@ -6097,24 +5971,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 231.14 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C23186"
-			(at 231.14 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF5101T5E"
 			(at 231.14 93.98 0)
 			(effects
 				(font
@@ -6278,24 +6134,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 219.71 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C23186"
-			(at 219.71 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "0603WAF5101T5E"
 			(at 219.71 93.98 0)
 			(effects
 				(font
@@ -6525,24 +6363,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C29718"
-			(at 107.95 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "4D03WGJ0103T5E"
 			(at 107.95 80.01 0)
 			(effects
 				(font

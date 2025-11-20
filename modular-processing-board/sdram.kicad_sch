@@ -5817,24 +5817,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 46.99 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 46.99 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 46.99 181.61 0)
 			(effects
@@ -5923,24 +5905,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 64.77 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 64.77 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 64.77 181.61 0)
 			(effects
 				(font
@@ -6102,24 +6066,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 64.77 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 64.77 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 64.77 153.67 0)
 			(effects
 				(font
@@ -6420,24 +6366,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 46.99 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 46.99 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 46.99 153.67 0)
 			(effects
@@ -6599,24 +6527,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 36.83 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 36.83 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 36.83 181.61 0)
 			(effects
@@ -6705,24 +6615,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 55.88 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 55.88 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 55.88 153.67 0)
 			(effects
 				(font
@@ -6827,24 +6719,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 72.39 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 72.39 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 72.39 181.61 0)
 			(effects
@@ -6933,24 +6807,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 81.28 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 81.28 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 81.28 153.67 0)
 			(effects
 				(font
@@ -7055,24 +6911,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C59461"
-			(at 19.05 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL10A226MQ8NRNC"
-			(at 19.05 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C59461"
 			(at 19.05 181.61 0)
 			(effects
@@ -7161,24 +6999,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 81.28 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 81.28 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 81.28 181.61 0)
 			(effects
 				(font
@@ -7593,24 +7413,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 36.83 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 36.83 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 36.83 153.67 0)
 			(effects
@@ -7838,24 +7640,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C59461"
-			(at 19.05 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CL10A226MQ8NRNC"
-			(at 19.05 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C59461"
 			(at 19.05 153.67 0)
 			(effects
@@ -7944,24 +7728,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 27.94 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 27.94 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 27.94 153.67 0)
 			(effects
 				(font
@@ -8066,24 +7832,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part Number" "C22435929"
-			(at 55.88 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
-			(at 55.88 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C307331"
 			(at 55.88 181.61 0)
 			(effects
@@ -8172,24 +7920,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 72.39 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 72.39 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 72.39 153.67 0)
 			(effects
 				(font
@@ -8530,24 +8260,6 @@
 			)
 		)
 		(property "Availability" ""
-			(at 27.94 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C22435929"
-			(at 27.94 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "CGA0201X7R104K160ET "
 			(at 27.94 181.61 0)
 			(effects
 				(font

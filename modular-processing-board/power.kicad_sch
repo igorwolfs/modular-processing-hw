@@ -3722,24 +3722,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturing part number" "BSMD1812-050-15V"
-			(at 86.36 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C883139"
-			(at 86.36 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LPN" "C883139"
 			(at 86.36 40.64 90)
 			(effects
@@ -3896,24 +3878,6 @@
 		)
 		(property "Availability" ""
 			(at 100.33 45.72 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Number" "C2286"
-			(at 100.33 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturing Part Number" "KT-0603R "
-			(at 100.33 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)

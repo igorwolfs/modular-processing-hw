@@ -15171,6 +15171,24 @@
 				(hide yes)
 			)
 		)
+		(property "LPN" "C1569"
+			(at 284.48 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402CG4R7C500NT"
+			(at 284.48 68.58 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0958c3b6-9855-4802-be5e-1e6898cdc708")
 		)
@@ -16737,6 +16755,24 @@
 			)
 		)
 		(property "Availability" ""
+			(at 284.48 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C1569"
+			(at 284.48 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402CG4R7C500NT"
 			(at 284.48 78.74 90)
 			(effects
 				(font

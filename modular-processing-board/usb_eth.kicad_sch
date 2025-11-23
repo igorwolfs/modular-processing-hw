@@ -5521,10 +5521,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8c904b4d-1460-4826-ab9b-5cc2fa493f59")
 		(property "Reference" "TP403"
-			(at 228.6 81.7879 0)
+			(at 220.98 87.3759 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5533,7 +5532,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 228.6 84.3279 0)
+			(at 228.6 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)

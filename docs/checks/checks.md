@@ -207,3 +207,4 @@ Increase PDCK to 45 mmm
 - ADC: OK
 - USB: OK
 
+# PSSI impedance

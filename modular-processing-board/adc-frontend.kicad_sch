@@ -8358,7 +8358,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 113.03 146.05 0)
 			(effects
 				(font
@@ -8394,7 +8394,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C285010 "
+		(property "LPN" "C15195"
 			(at 113.03 146.05 0)
 			(effects
 				(font
@@ -8403,7 +8403,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0201B103K250NT"
+		(property "MPN" "CL05B103KB5NNNC"
 			(at 113.03 146.05 0)
 			(effects
 				(font
@@ -11344,7 +11344,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 121.92 255.27 0)
 			(effects
 				(font
@@ -11380,7 +11380,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C285010 "
+		(property "LPN" "C15195"
 			(at 121.92 255.27 0)
 			(effects
 				(font
@@ -11389,7 +11389,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0201B103K250NT"
+		(property "MPN" "CL05B103KB5NNNC"
 			(at 121.92 255.27 0)
 			(effects
 				(font
@@ -11628,7 +11628,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -11664,7 +11664,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C285010 "
+		(property "LPN" "C15195"
 			(at 127 50.8 0)
 			(effects
 				(font
@@ -11673,7 +11673,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0201B103K250NT"
+		(property "MPN" "CL05B103KB5NNNC"
 			(at 127 50.8 0)
 			(effects
 				(font

@@ -1,0 +1,2 @@
+- Exporting Gerbers + Drill-files from kicad9: https://jlcpcb.com/help/article/how-to-generate-gerber-and-drill-files-in-kicad-9
+- BOM + centroid generation: https://jlcpcb.com/help/article/How-to-generate-the-BOM-and-Centroid-file-from-KiCAD

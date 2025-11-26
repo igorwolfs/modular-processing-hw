@@ -13327,7 +13327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 271.78 78.74 0)
 			(effects
 				(font
@@ -13363,7 +13363,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C17168"
+		(property "LPN" "C21189"
 			(at 271.78 78.74 90)
 			(effects
 				(font
@@ -13372,7 +13372,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402WGF0000TCE"
+		(property "MPN" "0603WAF0000T5E"
 			(at 271.78 78.74 90)
 			(effects
 				(font
@@ -13939,7 +13939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 67.31 85.09 0)
 			(effects
 				(font
@@ -13975,7 +13975,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C17477"
+		(property "LPN" "C21189"
 			(at 67.31 85.09 90)
 			(effects
 				(font
@@ -13984,7 +13984,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F0000T5E"
+		(property "MPN" "0603WAF0000T5E"
 			(at 67.31 85.09 90)
 			(effects
 				(font
@@ -14522,7 +14522,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 334.01 77.47 0)
 			(effects
 				(font
@@ -14558,7 +14558,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C17477"
+		(property "LPN" "C21189"
 			(at 334.01 77.47 90)
 			(effects
 				(font
@@ -14567,7 +14567,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F0000T5E"
+		(property "MPN" "0603WAF0000T5E"
 			(at 334.01 77.47 90)
 			(effects
 				(font
@@ -17851,7 +17851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 354.33 74.93 0)
 			(effects
 				(font
@@ -17887,7 +17887,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C17477"
+		(property "LPN" "C21189"
 			(at 354.33 74.93 90)
 			(effects
 				(font
@@ -17896,7 +17896,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F0000T5E"
+		(property "MPN" "0603WAF0000T5E"
 			(at 354.33 74.93 90)
 			(effects
 				(font
@@ -18365,7 +18365,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 334.01 74.93 0)
 			(effects
 				(font
@@ -18401,7 +18401,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C17477"
+		(property "LPN" "C21189"
 			(at 334.01 74.93 90)
 			(effects
 				(font
@@ -18410,7 +18410,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0805W8F0000T5E"
+		(property "MPN" "0603WAF0000T5E"
 			(at 334.01 74.93 90)
 			(effects
 				(font

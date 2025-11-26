@@ -2636,7 +2636,7 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at 109.982 78.232 0)
+			(at 109.982 57.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2644,7 +2644,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 113.03 80.01 0)
 			(effects
 				(font
@@ -2680,7 +2680,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C45783"
+		(property "LPN" "C59461"
 			(at 113.03 80.01 0)
 			(effects
 				(font
@@ -2689,7 +2689,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21A226MAQNNNE"
+		(property "MPN" "CL10A226MQ8NRNC"
 			(at 113.03 80.01 0)
 			(effects
 				(font
@@ -3222,7 +3222,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 107.95 80.01 0)
 			(effects
 				(font
@@ -3258,7 +3258,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C45783"
+		(property "LPN" "C59461"
 			(at 107.95 80.01 0)
 			(effects
 				(font
@@ -3267,7 +3267,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21A226MAQNNNE"
+		(property "MPN" "CL10A226MQ8NRNC"
 			(at 107.95 80.01 0)
 			(effects
 				(font
@@ -3449,7 +3449,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 118.11 80.01 0)
 			(effects
 				(font
@@ -3485,7 +3485,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C45783"
+		(property "LPN" "C59461"
 			(at 118.11 80.01 0)
 			(effects
 				(font
@@ -3494,7 +3494,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21A226MAQNNNE"
+		(property "MPN" "CL10A226MQ8NRNC"
 			(at 118.11 80.01 0)
 			(effects
 				(font

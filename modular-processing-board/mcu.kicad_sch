@@ -877,7 +877,10 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:Crystal_GND24_Small"
+		(symbol "Device:Crystal_Small"
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -886,21 +889,19 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "Y"
-				(at 1.27 4.445 0)
+				(at 0 2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
-			(property "Value" "Crystal_GND24_Small"
-				(at 1.27 2.54 0)
+			(property "Value" "Crystal_Small"
+				(at 0 -2.54 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
 			(property "Footprint" ""
@@ -921,7 +922,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
+			(property "Description" "Two pin crystal, small symbol"
 				(at 0 0 0)
 				(effects
 					(font
@@ -948,37 +949,13 @@
 					(hide yes)
 				)
 			)
-			(symbol "Crystal_GND24_Small_0_1"
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 1.905) (xy 1.27 1.905) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
+			(symbol "Crystal_Small_0_1"
 				(polyline
 					(pts
 						(xy -1.27 -0.762) (xy -1.27 0.762)
 					)
 					(stroke
 						(width 0.381)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 -1.27) (xy -1.27 -1.905) (xy 1.27 -1.905) (xy 1.27 -1.27)
-					)
-					(stroke
-						(width 0)
 						(type default)
 					)
 					(fill
@@ -1009,7 +986,7 @@
 					)
 				)
 			)
-			(symbol "Crystal_GND24_Small_1_1"
+			(symbol "Crystal_Small_1_1"
 				(pin passive line
 					(at -2.54 0 0)
 					(length 1.27)
@@ -1023,32 +1000,14 @@
 					(number "1"
 						(effects
 							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 2.54 270)
-					(length 0.635)
-					(name "4"
-						(effects
-							(font
 								(size 1.27 1.27)
 							)
 						)
 					)
-					(number "4"
-						(effects
-							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
 				)
 				(pin passive line
-					(at 0 -2.54 90)
-					(length 0.635)
+					(at 2.54 0 180)
+					(length 1.27)
 					(name "2"
 						(effects
 							(font
@@ -1059,25 +1018,7 @@
 					(number "2"
 						(effects
 							(font
-								(size 0.762 0.762)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 2.54 0 180)
-					(length 1.27)
-					(name "3"
-						(effects
-							(font
 								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0.762 0.762)
 							)
 						)
 					)
@@ -6988,12 +6929,6 @@
 		(uuid "654328ff-1d3e-42e3-bf7f-69d3d343c1d7")
 	)
 	(junction
-		(at 288.29 73.66)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "661da619-a6c0-4b81-a3b9-02127fdec066")
-	)
-	(junction
 		(at 368.3 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8741,16 +8676,6 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 73.66) (xy 283.21 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b94c81a-bd35-4f3a-b863-3de93c414ad6")
-	)
-	(wire
-		(pts
 			(xy 148.59 85.09) (xy 165.1 85.09)
 		)
 		(stroke
@@ -9861,7 +9786,7 @@
 	)
 	(wire
 		(pts
-			(xy 288.29 73.66) (xy 288.29 78.74)
+			(xy 288.29 68.58) (xy 288.29 78.74)
 		)
 		(stroke
 			(width 0)
@@ -10748,16 +10673,6 @@
 			(type default)
 		)
 		(uuid "bc95ee68-62c9-4aca-8860-c59dc635db69")
-	)
-	(wire
-		(pts
-			(xy 278.13 73.66) (xy 275.59 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd5b6fcb-ce7d-4835-a18a-d732b3f8067b")
 	)
 	(wire
 		(pts
@@ -11878,16 +11793,6 @@
 			(type default)
 		)
 		(uuid "faeb7aef-4f50-4e2b-8296-e06cbfaa7bba")
-	)
-	(wire
-		(pts
-			(xy 288.29 68.58) (xy 288.29 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fba9818d-f1df-42c7-814e-217853ce7c70")
 	)
 	(wire
 		(pts
@@ -13776,6 +13681,101 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "#PWR0212")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 284.48 78.74 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "105f861f-d8e2-4c88-b024-b293213b044b")
+		(property "Reference" "C201"
+			(at 289.814 77.724 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20pF"
+			(at 284.734 75.946 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 284.48 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707210038886400"
+			(at 284.48 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "C0G, +-5%"
+			(at 284.48 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 284.48 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C1554"
+			(at 284.48 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0402CG200J500NT"
+			(at 284.48 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "021d0141-0be6-4d99-ab7f-f984060f09b1")
+		)
+		(pin "2"
+			(uuid "d1633ae9-87dd-44f7-b716-e161b89159dd")
+		)
+		(instances
+			(project "modular-processing-board"
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
+					(reference "C201")
 					(unit 1)
 				)
 			)
@@ -16295,7 +16295,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7pF"
+		(property "Value" "20pF"
 			(at 284.734 65.786 90)
 			(effects
 				(font
@@ -16312,7 +16312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707297419231232"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707210038886400"
 			(at 284.48 68.58 0)
 			(effects
 				(font
@@ -16339,7 +16339,7 @@
 				(hide yes)
 			)
 		)
-		(property "LPN" "C1569"
+		(property "LPN" "C1554"
 			(at 284.48 68.58 90)
 			(effects
 				(font
@@ -16348,7 +16348,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "0402CG4R7C500NT"
+		(property "MPN" "0402CG200J500NT"
 			(at 284.48 68.58 90)
 			(effects
 				(font
@@ -16559,72 +16559,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "C203")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 275.59 73.66 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7a468cac-cc81-4ddb-832d-03f1b1f17d0a")
-		(property "Reference" "#PWR01209"
-			(at 275.59 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 272.542 73.914 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 275.59 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 275.59 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 275.59 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e756335c-8b21-431c-a5bc-1f2811cd1085")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "#PWR01209")
 					(unit 1)
 				)
 			)
@@ -17058,107 +16992,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "C219")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Crystal_GND24_Small")
-		(at 280.67 73.66 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "90de7c26-1d0c-4fbf-b1e8-be631aae34ee")
-		(property "Reference" "Y1201"
-			(at 284.48 71.628 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "25MHz"
-			(at 276.098 70.612 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
-			(at 280.67 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 280.67 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
-			(at 280.67 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 280.67 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LPN" "C9006"
-			(at 280.67 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "X322525MOB4SI"
-			(at 280.67 73.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "80731bb0-e4ea-40c9-8eb5-ca8f8f819811")
-		)
-		(pin "2"
-			(uuid "424d6202-3289-4790-b135-b53aad3948f7")
-		)
-		(pin "4"
-			(uuid "aa25225c-cb67-43cb-a6e2-97e437acf61e")
-		)
-		(pin "1"
-			(uuid "4b8cef42-5003-4e10-aec1-076f9ad51ecf")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "Y1201")
 					(unit 1)
 				)
 			)
@@ -17739,6 +17572,102 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Crystal_Small")
+		(at 280.67 73.66 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9b2a049a-e9c6-4366-bdd4-2635582a2306")
+		(property "Reference" "Y201"
+			(at 274.32 71.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "8MHz"
+			(at 273.812 73.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm"
+			(at 280.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579709271493435392"
+			(at 280.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Four pin crystal, GND on pins 2 and 4, small symbol"
+			(at 280.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Availability" ""
+			(at 280.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LPN" "C115962"
+			(at 280.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "X50328MSB2GI"
+			(at 280.67 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "85d0f53f-9769-4401-96ec-50a4852af9fa")
+		)
+		(pin "2"
+			(uuid "4003e1da-f4fa-4274-8893-b750e32a1a25")
+		)
+		(instances
+			(project ""
+				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
+					(reference "Y201")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 383.032 179.07 90)
 		(unit 1)
@@ -18011,101 +17940,6 @@
 			(project "modular-processing-board"
 				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
 					(reference "C215")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 284.48 78.74 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a3e6e1b9-6800-4226-a651-daa81291ec6b")
-		(property "Reference" "C201"
-			(at 284.988 75.946 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "4.7pF"
-			(at 283.972 82.55 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 284.48 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8579707297419231232"
-			(at 284.48 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "C0G, +-5%"
-			(at 284.48 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Availability" ""
-			(at 284.48 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LPN" "C1569"
-			(at 284.48 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "0402CG4R7C500NT"
-			(at 284.48 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ac3ab7a5-15cb-46f0-a937-015f9a676308")
-		)
-		(pin "2"
-			(uuid "18fc3c8e-86d5-4101-9fdc-f22f621b2dc1")
-		)
-		(instances
-			(project "modular-processing-board"
-				(path "/73b5a92f-908b-4f97-a96c-14ee20a7f293/01eb0d97-3d3b-4e35-bd53-1e9fa246aa57"
-					(reference "C201")
 					(unit 1)
 				)
 			)

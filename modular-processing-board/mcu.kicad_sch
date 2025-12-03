@@ -15731,7 +15731,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "iw-misc:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x01_P1.27mm_Vertical"
 			(at 377.19 29.21 0)
 			(effects
 				(font
@@ -17113,7 +17113,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "iw-misc:TestPoint_Pad_D0.5mm"
+		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x01_P1.27mm_Vertical"
 			(at 329.438 28.702 0)
 			(effects
 				(font

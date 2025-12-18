@@ -1,0 +1,3 @@
+[submodule "modular-processing-board-fw"]
+	path = modular-processing-board-fw
+	url = git@github.com:igorwolfs/modular-processing-board-fw.git

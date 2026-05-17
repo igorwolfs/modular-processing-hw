@@ -1545,7 +1545,7 @@
 		)
 		(uuid "43342754-4188-497e-a6fc-207a6249ea34")
 	)
-	(text "SDRAM PHY Rise / Fall / Setup / Hold times:\n- 1 ns\n- t_setup-time: 1.5 ns\n- t_hold-time: 1 ns\nMCU Rise / Fall / Setup / Hold times\n- "
+	(text "SDRAM PHY Rise / Fall / Setup / Hold times:\n- 1 ns\n- t_setup-time: 1.5 ns\n- t_hold-time: 1 ns\nMCU Rise / Fall / Setup / Hold times"
 		(exclude_from_sim no)
 		(at 93.472 121.412 0)
 		(effects

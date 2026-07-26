@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cortex Debug (J-Link)",
+            "type": "cortex-debug",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/modular-processing-board-fw/build/mcu.elf",
+            "runToEntryPoint": "main",
+            "servertype": "stlink",
+            "device": "STM32H723ZGT",      // adjust to your exact chip
+            "interface": "swd"
+            //"gdbPath": "C:\\ST\\STM32CubeCLT_1.21.0\\GNU-tools-for-STM32\\bin\\arm-none-eabi-gdb.exe",
+            //"armToolchainPath": "C:\\ST\\STM32CubeCLT_1.21.0\\GNU-tools-for-STM32\\bin"
+        }
+    ]
+}
